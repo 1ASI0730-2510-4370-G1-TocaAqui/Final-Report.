@@ -45,6 +45,30 @@ En el ecosistema de soluciones para la gestión de eventos musicales y contratac
 | **Oportunidades** | Expansión a más ciudades, alianzas con promotores, sistema de recompensas por reseñas, integración con plataformas de streaming. | Integración con redes sociales, nuevas funciones de comunidad. | Expansión internacional, integrar funciones logísticas. | Modernización con IA, agregar soporte contractual y pagos. |
 | **Amenazas** | Competidores consolidados, reticencia a la digitalización en algunos sectores culturales, dependencia del éxito en eventos piloto. | Saturación del mercado de entradas, cambios en algoritmos de plataformas sociales. | Dependencia del mercado de eventos privados, reputación variable. | Competencia tecnológica, falta de diferenciación a largo plazo. |
 
+###  2.1.2. Estrategias y tácticas frente a competidores.
+
+Para destacar frente a la competencia en el sector musical y de eventos, TocaAquí debe implementar estrategias y tácticas diferenciadoras que refuercen su propuesta de valor y logren captar tanto a músicos como a promotores y locales. Estas son algunas de las principales estrategias y tácticas planteadas:
+
+#### 1.**Desarrollar una Propuesta de Valor Única**
+- **Estrategia:** Resaltar los beneficios clave de TocaAquí como plataforma integral para la contratación y promoción de talento musical emergente.  
+- **Táctica:** Enfatizar características como contratos digitales, pagos seguros (escrow), validación de rider técnico y agenda compartida para destacar la profesionalización del proceso.
+
+#### 2. **Enfoque en la Experiencia del Usuario**
+- **Estrategia:** Optimizar la experiencia tanto para músicos como para promotores mediante una interfaz clara, intuitiva y funcional.  
+- **Táctica:** Mejorar continuamente la usabilidad de la plataforma, con flujos ágiles para programación de eventos, seguimiento de pagos y validación de logística técnica.
+
+#### 3. **Ampliar la Base de Usuarios**
+- **Estrategia:** Aumentar la comunidad de usuarios para consolidar la red y generar más oportunidades de conexión musical.  
+- **Táctica:** Implementar campañas de referidos para músicos y promotores, junto con descuentos por primera contratación y beneficios por uso frecuente.
+
+#### 4. **Marketing Digital Segmentado**
+- **Estrategia:** Enfocar la comunicación digital hacia artistas independientes, bookers y dueños de locales culturales.  
+- **Táctica:** Usar campañas dirigidas en redes sociales, con contenidos creativos (videos de artistas, experiencias de contratación) y pauta en nichos como festivales locales, ferias musicales y foros de emprendimiento artístico.
+
+#### 5. **Alianzas Estratégicas**
+- **Estrategia:** Colaborar con instituciones culturales, asociaciones de músicos y marcas relacionadas con la música en vivo para aumentar la visibilidad y credibilidad.  
+- **Táctica:** Generar convenios con bares, discotecas, escuelas de música y empresas de sonido para ofrecer beneficios cruzados y asegurar presencia constante en la escena.
+
 
 ###   2.2. Entrevistas. 
 
