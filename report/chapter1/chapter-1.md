@@ -26,7 +26,7 @@ Cada presentación incluye procesos internos como validación del rider técnico
 | ![Edu]() | Me llamo Eddo Su Caletti estudió la carrera de ingeniería de software estoy en el 5 ciclo me considero una persona amable y graciosa me encanta salir con mis amigos a pasear en bici o jugar videojuegos además espero poder ser de ayuda para mis compañeros con todos los problemas que ellos tengan. |
 | ![Juan]() | Mi nombre es Juan Paul Llamccaya Arone, estoy cursando el sexto ciclo en la carrera de Ingeniería de Software. Cuento con conocimientos de desarrollo de Apps Web profundizando el dominio de lenguajes de Programción como python, C++, HTML y otros mas. Me considero una persona reponsable y me gusta trabajar en equipo.                                                                                                                                                                                               |
 | ![Diego]() | Me llamo Diego Ivan Cabrera Buitron, estudiante de la carrera de Ingeniería de Software; tengo conocimiento sobre el desarrollo web, ya sean lenguajes como HTML, CSS y JavaScript o frameworks como Angular, PrimeVue y React. Me considero una persona perseverante y siempre estoy enfocado en el cumplimiento de los objetivos. |
-| ![asasasa]()   | asasasasasas.                                                                                             |
+| ![Oscar Josué Antayhua Castillo](/assets/oscar.jpg)   | Nací el 20 de diciembre de 2001 y actualmente estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Escogí esta carrera debido a la alta demanda que tiene en el mercado y por todas las posibilidades creativas y técnicas que ofrece el desarrollo de software. A lo largo de mis estudios, he adquirido conocimientos en diversas tecnologías como JavaScript, TypeScript, Vue, Angular, C++, Python y MySQL. Estas herramientas me han permitido desarrollar diversos proyectos y fortalecer mis habilidades en la creación y gestión de software, contribuyendo a mi crecimiento como programador.|
 | ![asasas]() | asasasasasas                                                                                                                                                                                                                                                                    
 
 ## 1.2. Solution Profile
@@ -83,8 +83,6 @@ La solución proporcionará un espacio seguro y automatizado para la contrataci�
 
 - #### 1.2.2.4. Lean UX Canvas
 El Lean UX Canvas es una herramienta  que permite a los equipos plasmar y visualizar de manera concisa los aspectos clave de su proyecto. En este punto, exploraremos cómo el Canvas facilita la colaboración y la alineación del equipo al definir claramente el problema, la solución propuesta, los usuarios y sus necesidades, así como las métricas de éxito.
-<br><br>
-
 <img src="../../assets/leanuxcanvas.png">
 
 ## 1.3. Segmentos objetivo.
