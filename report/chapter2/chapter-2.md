@@ -50,7 +50,7 @@ En el ecosistema de soluciones para la gestión de eventos musicales y contratac
 
 ####   2.2.1 Diseño de entrevistas. 
 
-#### Segmento Objetivo Administradores de espacios
+#### Segmento Objetivo Administradores
 #### Preguntas Objetivas:
 
 **Características Demográficas:**
@@ -95,6 +95,55 @@ En el ecosistema de soluciones para la gestión de eventos musicales y contratac
 
 - ¿Cómo te gustaría que evolucionara el proceso de reserva y programación musical?
 - ¿Qué mejoras digitales facilitarían tu trabajo como administrador de espacios?
+
+
+
+
+#### Segmento Objetivo Músicos y bandas emergentes:
+#### Preguntas Objetivas:
+
+**Características Demográficas:**
+
+- ¿Cuál es tu género?
+- ¿Cuántos años tienes?
+- ¿Cuál es tu rol musical (solista, vocalista, guitarrista, DJ, etc.)?
+- ¿Tocas solo o formas parte de una banda?
+
+**Ocupación y Responsabilidades:**
+
+
+- ¿Desde hace cuánto tiempo estás activo/a como músico?
+- ¿Cuántas presentaciones en vivo realizas en promedio al mes?
+- ¿Qué tipo de escenarios frecuentas (bares, festivales, discotecas)?
+
+**Uso de Tecnología:**
+
+- ¿Qué dispositivos usas para organizar tus presentaciones (PC, celular, tablet)?
+- ¿Qué redes o plataformas usas para gestionar tus bookings o mostrar tu trabajo (Instagram, SoundCloud, etc.)?
+- ¿Usas algún sistema para generar contratos o manejar pagos?
+
+
+#### Preguntas Subjetivas:
+
+**Personalidad y Habilidades:**
+
+- ¿Cómo defines tu estilo musical y tu enfoque en vivo?
+- ¿Qué habilidades consideras esenciales para posicionarte como artista en la escena local?
+
+**Objetivos y Frustraciones:**
+
+- ¿Qué metas tienes en relación con tus presentaciones en vivo?
+- ¿Qué dificultades encuentras al buscar espacios para tocar?
+- ¿Qué parte del proceso (contacto, pagos, contratos, logística) te resulta más difícil o engorrosa?
+
+**Preferencias y Canales Digitales:**
+
+- ¿Qué funcionalidades valoras en una plataforma para músicos (contratos automáticos, pagos seguros, agenda, etc.)?
+- ¿Por qué motivos dejarías de usar una plataforma si no cumpliera con tus expectativas?
+
+**Visión del Futuro:**
+- ¿Cómo te gustaría que evolucionaran los procesos de contratación y visibilidad para músicos independientes?
+- ¿Qué esperas de una plataforma digital que prometa conectarte con promotores y espacios?
 
 
 ####   2.2.2 Registro de entrevistas. 
