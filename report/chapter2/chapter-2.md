@@ -21,7 +21,7 @@ En el ecosistema de soluciones para la gestión de eventos musicales y contratac
 
   
 
-**Indie on the Move: ** Plataforma que ayuda a bandas a encontrar lugares donde tocar en Estados Unidos, ofreciendo bases de datos y herramientas para giras. Sin embargo, la gestión sigue siendo manual y sin respaldo de contratos ni pagos seguros.
+**Indie on the Move:** Plataforma que ayuda a bandas a encontrar lugares donde tocar en Estados Unidos, ofreciendo bases de datos y herramientas para giras. Sin embargo, la gestión sigue siendo manual y sin respaldo de contratos ni pagos seguros.
 
 🔹 Ventaja de TocaAquí: Ofrecemos una experiencia automatizada y segura, con contrato digital, logística integrada y pagos protegidos mediante escrow, además de promoción integrada del evento.
 
@@ -44,4 +44,59 @@ En el ecosistema de soluciones para la gestión de eventos musicales y contratac
 | **Debilidades** | Plataforma en crecimiento. Necesita generar masa crítica de usuarios y confianza del mercado. | No gestiona contrataciones ni logística de artistas. | Limitado a eventos privados. Poca presencia cultural o comunitaria. | Gestión manual. Sin soporte legal ni de pagos. Limitado a EE. UU. |
 | **Oportunidades** | Expansión a más ciudades, alianzas con promotores, sistema de recompensas por reseñas, integración con plataformas de streaming. | Integración con redes sociales, nuevas funciones de comunidad. | Expansión internacional, integrar funciones logísticas. | Modernización con IA, agregar soporte contractual y pagos. |
 | **Amenazas** | Competidores consolidados, reticencia a la digitalización en algunos sectores culturales, dependencia del éxito en eventos piloto. | Saturación del mercado de entradas, cambios en algoritmos de plataformas sociales. | Dependencia del mercado de eventos privados, reputación variable. | Competencia tecnológica, falta de diferenciación a largo plazo. |
-----------------------------
+
+
+###   2.2. Entrevistas. 
+
+####   2.2.1 Diseño de entrevistas. 
+
+#### Segmento Objetivo Administradores de espacios
+#### Preguntas Objetivas:
+
+**Características Demográficas:**
+
+- ¿Cuál es tu género?
+- ¿Cuántos años tienes?
+- ¿En qué ciudad y distrito está ubicado tu local?
+- ¿Cuál es el aforo y tipo de espacio que administras (bar, discoteca, centro cultural, etc.)?
+
+
+**Ocupación y Responsabilidades:**
+
+- ¿Cuál es tu cargo dentro del establecimiento?
+- ¿Qué funciones desempeñas específicamente en la organización y gestión de eventos?
+- ¿Con qué frecuencia alquilas tu espacio para presentaciones musicales?
+- ¿Cómo gestionas actualmente la programación de artistas y bandas?
+
+**Uso de Tecnología:**
+
+- ¿Qué dispositivos usas para gestionar tu local (PC, laptop, tablet, celular)?
+- ¿Qué herramientas digitales o sistemas usas para reservas, programación o promoción?
+- ¿Qué canales usas para comunicarte con músicos o productores?
+
+#### Preguntas Subjetivas:
+
+**Personalidad y Habilidades:**
+
+- ¿Qué habilidades personales consideras claves para manejar eventos y relaciones con artistas?
+
+
+**Objetivos y Frustraciones:**
+
+- ¿Qué objetivos tienes al permitir que bandas se presenten en tu espacio?
+- ¿Qué problemas o frustraciones enfrentas al gestionar reservas, pagos o promociones?
+- ¿Qué procesos te gustaría automatizar?
+
+**Preferencias y Canales Digitales:**
+- ¿¿Qué funcionalidades valorarías en una plataforma que centralice reservas, pagos y promoción de eventos?
+-¿Cómo prefieres recibir notificaciones sobre postulaciones o confirmaciones de artistas?
+
+**Visión del Futuro:**
+
+- ¿Cómo te gustaría que evolucionara el proceso de reserva y programación musical?
+- ¿Qué mejoras digitales facilitarían tu trabajo como administrador de espacios?
+
+
+####   2.2.2 Registro de entrevistas. 
+
+####   2.2.3 Análisis de entrevistas. 
