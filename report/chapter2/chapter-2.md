@@ -50,7 +50,7 @@ En el ecosistema de soluciones para la gestión de eventos musicales y contratac
 
 ####   2.2.1 Diseño de entrevistas. 
 
-#### Segmento Objetivo Administradores
+#### Segmento Objetivo Administradores de locales
 #### Preguntas Objetivas:
 
 **Características Demográficas:**
@@ -99,7 +99,7 @@ En el ecosistema de soluciones para la gestión de eventos musicales y contratac
 
 
 
-#### Segmento Objetivo Músicos y bandas emergentes:
+#### Segmento Objetivo Artistas:
 #### Preguntas Objetivas:
 
 **Características Demográficas:**
