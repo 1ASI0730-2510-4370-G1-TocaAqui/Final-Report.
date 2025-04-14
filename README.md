@@ -34,7 +34,7 @@ Grupo: 01
 | Juan Paul Llamccaya Arone |  |
 |  Oscar Josué Antayhua Castillo  | U20191e414 |
 |  Nelson Fabrizzio Pereira Vasquez  |   |
-|   Eddo Su Caletti    |   |
+|   Eddo Su Caletti    |  U20221A390 |
 
 Abril 2025
 
