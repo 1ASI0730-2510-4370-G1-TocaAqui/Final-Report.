@@ -67,9 +67,61 @@ En un mercado cada vez más competitivo en la industria de eventos musicales, lo
 TocaAquí es una plataforma web diseñada para abordar este desafío, facilitando la conexión entre músicos emergentes y promotores de eventos. A través de la plataforma, los músicos pueden postularse a eventos, gestionar sus contratos de forma digital, y recibir pagos seguros. Al mismo tiempo, los promotores pueden encontrar músicos adecuados para sus eventos y gestionar todo el proceso de contratación y pago de manera eficiente y transparente.
 
 La solución proporcionará un espacio seguro y automatizado para la contratación de músicos, mejorando la visibilidad de los artistas y optimizando la experiencia para los promotores de eventos.
-### 1.2.2 Lean UX Process
-El proceso Lean UX es una metodología ágil que revoluciona la forma en que se diseña y desarrolla productos digitales. En este punto, exploraremos los principios fundamentales de Lean UX y cómo se integran en el ciclo de desarrollo de productos. Desde la colaboración multidisciplinaria hasta la iteración rápida y la validación continua, descubriremos cómo este enfoque permite a los equipos crear productos centrados en el usuario de manera 
 
+ #### 1.2.2.2. Lean UX Assumptions
+  ### **Business Assumptions**
+Demanda del mercado: Se asume que existe una demanda creciente en el sector de eventos musicales en vivo, tanto por parte de músicos emergentes que buscan oportunidades de presentación como de espacios y promotores que requieren talentos confiables para dinamizar sus agendas.
+
+Transformación digital del sector: Se presupone que la industria de la música en vivo y eventos se beneficiará de la digitalización de procesos, mejorando la contratación, coordinación y pago de servicios.
+
+Valor diferencial en formalización: Se cree que la implementación de contratos digitales, sistemas de pagos  y evaluaciones post-evento aportará un valor agregado a la experiencia de usuario, diferenciando a TocaAquí en el mercado.
+
+Creciente uso de tecnologías: Se asume que tanto músicos como espacios disponen de la infraestructura tecnológica necesaria y tienen la disposición para adoptar soluciones digitales que faciliten sus procesos operativos.
+
+  ### **Business Outcomes Assumptions**
+Optimización de operaciones: Se espera que, al centralizar la búsqueda, contratación y coordinación de eventos musicales, los espacios y promotores logren una mayor eficiencia operativa, reduciendo tiempos y costos administrativos.
+
+Incremento en la rentabilidad: La formalización del proceso mediante herramientas digitales permitirá reducir los riesgos de cancelaciones, impagos y malentendidos, lo que se traducirá en mayores ingresos y menor pérdida económica para todas las partes involucradas.
+
+Fidelización y crecimiento del ecosistema: Se asume que al ofrecer una experiencia confiable y profesional, la plataforma generará fidelidad tanto en músicos como en promotores, impulsando el crecimiento orgánico y la expansión a nuevos mercados.
+
+Posicionamiento como referente: Se proyecta que TocaAquí se posicione como la solución líder en la contratación de eventos musicales, capturando una cuota relevante del mercado y diferenciándose frente a procesos informales existentes.
+
+  ### **User Assumptions**
+
+**Músicos y bandas independientes**:
+
+Se asume que buscan profesionalizar su carrera y aumentar su visibilidad, necesitando herramientas para gestionar presentaciones, coordinar logística y recibir pagos seguros.
+
+Valoran el acceso a evaluaciones, contratos digitales y una plataforma centralizada que les permita gestionar sus oportunidades de manera autónoma.
+
+**Espacios y promotores (bares, discotecas, centros culturales)**:
+
+Se asume que requieren un método seguro y eficiente para encontrar talentos musicales acordes a sus necesidades, basado en criterios como ubicación, género musical y disponibilidad.
+
+Buscan reducir la incertidumbre en la contratación, optimizando la planificación de eventos y minimizando riesgos financieros y operativos.
+
+**Capacidad tecnológica y disposición**:
+
+Se presupone que ambos segmentos tienen la capacidad técnica para utilizar una plataforma online y están dispuestos a incorporar nuevas herramientas digitales en su rutina diaria para mejorar sus procesos de contratación y organización.
+
+  ### **User Outcomes Assumptions**
+
+**Para músicos y bandas:**
+
+A través de la plataforma, se espera que aumente su visibilidad y la cantidad de oportunidades para presentarse, permitiéndoles gestionar de manera autónoma toda la logística de sus eventos.
+
+La integración de herramientas como la firma digital y el sistema de pagos en escrow contribuirá a una experiencia más segura y profesional, facilitando la toma de decisiones y la gestión de su carrera.
+
+**Para espacios y promotores:**
+
+Se prevé que la plataforma les permita encontrar y seleccionar talentos mediante filtros avanzados (por ubicación, tipo de música, disponibilidad), accediendo a portafolios y calificaciones que los ayuden a tomar decisiones informadas.
+
+La implementación de una agenda compartida y herramientas para la coordinación logística (rider técnico, horarios, etc.) generará una planificación de eventos más organizada y exitosa, reduciendo riesgos y optimizando sus recursos.
+
+**Resultados compartidos:**
+
+La transparencia y confiabilidad proporcionadas por el sistema de evaluaciones post-evento fomentarán la mejora continua y la retroalimentación, elevando la calidad del servicio ofrecido por ambas partes y fortaleciendo la reputación del ecosistema musical.
   
 
 
