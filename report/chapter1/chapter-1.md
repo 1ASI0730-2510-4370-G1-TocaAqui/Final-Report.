@@ -61,27 +61,19 @@ TocaAquí no solo conecta talento con oportunidades, sino que impulsa un cambio 
 ### 1.2.2 Lean UX Process
 
 El proceso Lean UX es una metodología ágil que revoluciona la forma en que se diseña y desarrolla productos digitales. En este punto, exploraremos los principios fundamentales de Lean UX y cómo se integran en el ciclo de desarrollo de productos. Desde la colaboración multidisciplinaria hasta la iteración rápida y la validación continua, descubriremos cómo este enfoque permite a los equipos crear productos centrados en el usuario de manera eficiente y efectiva.
-- #### 1.2.2.1. Lean UX Problem Statements
+#### 1.2.2.1. Lean UX Problem Statements
 En un mercado cada vez más competitivo en la industria de eventos musicales, los músicos emergentes enfrentan dificultades para conectarse con promotores de eventos, mientras que los promotores a menudo no tienen acceso a un catálogo de talento confiable y diverso. Esta desconexión genera frustración y limita las oportunidades tanto para los músicos como para los promotores.
 
 TocaAquí es una plataforma web diseñada para abordar este desafío, facilitando la conexión entre músicos emergentes y promotores de eventos. A través de la plataforma, los músicos pueden postularse a eventos, gestionar sus contratos de forma digital, y recibir pagos seguros. Al mismo tiempo, los promotores pueden encontrar músicos adecuados para sus eventos y gestionar todo el proceso de contratación y pago de manera eficiente y transparente.
 
 La solución proporcionará un espacio seguro y automatizado para la contratación de músicos, mejorando la visibilidad de los artistas y optimizando la experiencia para los promotores de eventos.
-- #### 1.2.2.2. Lean UX Assumptions
-  ### **Business Assumptions**
 
 
-  ### **Business Outcomes Assumptions**
-
-
-  ### **User Assumptions**
-    
-  ### **User Outcomes Assumptions**
   
-- #### 1.2.2.3. Lean UX Hypothesis Statements
 
 
-- #### 1.2.2.4. Lean UX Canvas
+
+#### 1.2.2.4. Lean UX Canvas
 El Lean UX Canvas es una herramienta  que permite a los equipos plasmar y visualizar de manera concisa los aspectos clave de su proyecto. En este punto, exploraremos cómo el Canvas facilita la colaboración y la alineación del equipo al definir claramente el problema, la solución propuesta, los usuarios y sus necesidades, así como las métricas de éxito.
 ![Lean Ux Canvas](/assets/leanuxcanvas.png) 
 
