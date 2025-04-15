@@ -67,7 +67,8 @@ En un mercado cada vez más competitivo en la industria de eventos musicales, lo
 TocaAquí es una plataforma web diseñada para abordar este desafío, facilitando la conexión entre músicos emergentes y promotores de eventos. A través de la plataforma, los músicos pueden postularse a eventos, gestionar sus contratos de forma digital, y recibir pagos seguros. Al mismo tiempo, los promotores pueden encontrar músicos adecuados para sus eventos y gestionar todo el proceso de contratación y pago de manera eficiente y transparente.
 
 La solución proporcionará un espacio seguro y automatizado para la contratación de músicos, mejorando la visibilidad de los artistas y optimizando la experiencia para los promotores de eventos.
-
+### 1.2.2 Lean UX Process
+El proceso Lean UX es una metodología ágil que revoluciona la forma en que se diseña y desarrolla productos digitales. En este punto, exploraremos los principios fundamentales de Lean UX y cómo se integran en el ciclo de desarrollo de productos. Desde la colaboración multidisciplinaria hasta la iteración rápida y la validación continua, descubriremos cómo este enfoque permite a los equipos crear productos centrados en el usuario de manera 
 
   
 
