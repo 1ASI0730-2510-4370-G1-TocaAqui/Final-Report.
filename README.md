@@ -30,10 +30,10 @@ Grupo: 01
 
 |           Integrantes            |   Código    |
 |:--------------------------------:|:-----------:|
-|  Diego Ivan Cabrera Buitron  | -  |
+|  Diego Ivan Cabrera Buitron  | u20211b293  |
 | Juan Paul Llamccaya Arone | U201923571 |
 |  Oscar Josué Antayhua Castillo  | U20191e414 |
-|  Nelson Fabrizzio Pereira Vasquez  |   |
+|  Nelson Fabrizzio Pereira Vasquez  | u202417468  |
 |   Eddo Su Caletti    |  U20221A390 |
 
 Abril 2025
