@@ -123,6 +123,39 @@ La implementación de una agenda compartida y herramientas para la coordinación
 
 La transparencia y confiabilidad proporcionadas por el sistema de evaluaciones post-evento fomentarán la mejora continua y la retroalimentación, elevando la calidad del servicio ofrecido por ambas partes y fortaleciendo la reputación del ecosistema musical.
   
+#### 1.2.2.3. Declaraciones de hipótesis de Lean UX
+  
+Para la elaboración de los Hypothesis Statements se utilizó el formato Lean UX: [We believe that], [This will achieve] y [We will have demonstrated this when]
+
+**Hipótesis 1: Simplificación del proceso de búsqueda**
+
+**Creemos que:** Si simplificamos el proceso de búsqueda y comparación de espacios y eventos musicales en la plataforma TocaAquí,
+**Sabremos que** esto logrará aumentar las contrataciones al facilitar la conexión directa entre músicos emergentes y promotores de eventos.
+**Cuando:** observemos un aumento del 25% en la cantidad de contratos firmados entre músicos y promotores en los primeros seis meses.
+
+**Hipótesis 2: Promoción automatizada para mayor visibilidad**
+
+**Creemos que** Si integramos un módulo de promoción automatizada que incluye la difusión en redes sociales,
+**Sabremos que** esto aumentará la visibilidad de los músicos emergentes y, por fin, atraer un mayor número de solicitudes de contratación.
+**Cuando** se observe un aumento del 35% en la cantidad de visitas a los perfiles de músicos y en las postulaciones a eventos durante el primer año.
+
+**Hipótesis 3: Mejora en la coordinación logística**
+
+**Creemos que** Si incorporamos una herramienta de agenda compartida y validación de los requerimientos técnicos,
+**Sabremos que** mejorá la organización y puntualidad en la ejecución de los eventos musicales.
+**Cuando** las encuestas post-evento muestren un incremento del 20% en la satisfacción de los usuarios respecto a la coordinación logística.
+
+**Hipótesis 4: Retroalimentación y profesionalización**
+
+**Creemos que** Si implementamos un sistema de evaluaciones y retroalimentación post-evento,
+**Sabremos que** esto logrará elevar la calidad del servicio y fortalecer la profesionalización dentro del ecosistema de TocaAquí.
+**Cuando** las calificaciones promedio superen 4.0 sobre 5 y se evidencie un aumento del 30% en la recurrencia de contrataciones.
+
+**Hipótesis 5: Seguridad en la contratación**
+
+**Creemos que** Si implementamos un sistema integrado para la firma digital de contratos y pagos seguros,
+**Sabremos que** esto logrará reducir significativamente los riesgos de impago y cancelaciones, generando mayor confianza entre los usuarios.
+**Cuando** se registre una disminución del 30% en casos de impagos y cancelaciones en los eventos organizados a través de la plataforma.
 
 
 
