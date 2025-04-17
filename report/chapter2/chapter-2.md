@@ -213,9 +213,8 @@ Entrevistado #3
  
 ####   2.2.3 Análisis de entrevistas. 
 
-### 2.2.3. Análisis de entrevistas
 
-### Segmento Objetivo #1: Administradores de Locales
+#### Segmento Objetivo #1: Administradores de Locales
 
 A partir de las entrevistas realizadas a tres responsables de espacios culturales y de entretenimiento (Luis Gamarra, Carmen Navarro y Daniel Rivas) se identificaron patrones comunes, necesidades claras y desafíos compartidos en torno a la gestión de eventos musicales y contratación de artistas en el ámbito independiente.
 
@@ -291,3 +290,15 @@ Los tres entrevistados coinciden en la necesidad de **profesionalizar y automati
 #### Conclusiones del Segmento
 
 Los administradores entrevistados revelan una **alta carga operativa** asociada a la informalidad en la gestión musical. Existe una necesidad latente de una **plataforma digital integral como TocaAquí**, que centralice la contratación, pagos, agenda, comunicación y promoción. La solución tendría una **alta adopción** si se adapta a sus flujos actuales, reduce la fricción operativa y eleva el estándar profesional tanto para espacios como para artistas. Además, se percibe un interés genuino en dejar atrás los métodos dispersos y manuales por una gestión moderna, eficiente y confiable.
+
+#### Segmento Objetivo #2: Artistas
+
+###   2.3. Needfinding. 
+
+####   2.3.1 User Personas. 
+
+Para entender mejor a nuestros usuarios clave, hemos creado dos perfiles de User Persona que representan de forma ficticia a nuestros segmentos principales: artistas independientes y administradores de locales. Estos perfiles nos permiten identificar sus motivaciones, frustraciones, hábitos y expectativas, facilitando el diseño de una solución más alineada con sus necesidades reales y mejorando así su experiencia con la plataforma.
+
+#### Segmento Objetivo Administradores de locales
+
+![Administrador_user_persona](/assets/Administrador%20de%20Local.png)
