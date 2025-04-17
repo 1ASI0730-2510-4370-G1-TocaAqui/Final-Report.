@@ -172,7 +172,7 @@ Para destacar frente a la competencia en el sector musical y de eventos, TocaAqu
 
 ####   2.2.2 Registro de entrevistas. 
 
-#### Segmento locales
+#### Segmento Administrador de locales
 
 Entrevistado #1
 
@@ -211,6 +211,44 @@ Entrevistado #3
 | **Resumen**                 | Carmen es coordinadora de eventos en “La Sazón del Ruido”, un café cultural con espacio para 80 personas. Tiene 29 años y usa principalmente su celular y laptop para programar la cartelera musical. Nos contó que trabaja con artistas locales y viajeros, y que recibe muchas propuestas por DM de Instagram, lo que le complica hacer seguimiento formal. Le frustra tener que redactar contratos desde cero cada vez y no tener una forma rápida de filtrar por estilo musical o fecha disponible. Mencionó que suele perder tiempo ajustando horarios o buscando reemplazos de último minuto. Para ella, una plataforma donde pueda recibir postulaciones ordenadas, ver el historial de cada banda, programar eventos en una agenda visual y automatizar los pagos sería ideal. También le gustaría que los artistas pudieran subir directamente su rider técnico, así no tiene que estar pidiendo eso por correo o mensajes sueltos. |
 
  
+#### Segmento Artistas
+
+Entrevistado #1
+
+| Campo                        | Información                                                                                                                           |
+|-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| **Nombre del entrevistado** |                                                                                                                           |
+| **Edad**                    |                                                                                                                                 |
+| **Distrito**                |                                                                                                                              |
+| **Screenshot de la entrevista**|                                                                                  |
+| **Link de la entrevista**   |                                                                                                                         |
+| **Tiempo de inicio y duración** |                                                                                    |
+| **Resumen**                 |  |
+----
+Entrevistado #2
+
+| Campo                        | Información                                                                                                                           |
+|-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| **Nombre del entrevistado** |                                                                                                                          |
+| **Edad**                    |                                                                                                                                  |
+| **Distrito**                |                                                                                                                              |
+| **Screenshot de la entrevista**|                                                                                  |
+| **Link de la entrevista**   |                                                                                                                         |
+| **Tiempo de inicio y duración** |                                                                                    |
+| **Resumen**                 |  |
+----
+Entrevistado #3
+
+| Campo                        | Información                                                                                                                           |
+|-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| **Nombre del entrevistado** |                                                                                                                            |
+| **Edad**                    |                                                                                                                                  |
+| **Distrito**                |                                                                                                                              |
+| **Screenshot de la entrevista**|                                                                                  |
+| **Link de la entrevista**   |                                                                                                                         |
+| **Tiempo de inicio y duración** |                                                                                    |
+| **Resumen**                 |  |
+
 ####   2.2.3 Análisis de entrevistas. 
 
 
