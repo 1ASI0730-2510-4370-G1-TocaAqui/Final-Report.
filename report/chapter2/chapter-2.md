@@ -184,7 +184,7 @@ Entrevistado #1
 | **Screenshot de la entrevista**|                                                                                  |
 | **Link de la entrevista**   |                                                                                                                         |
 | **Tiempo de inicio y duración** |                                                                                    |
-| **Resumen**                 | Luis es administrador de “El Refugio”, un bar cultural en Barranco con capacidad para 120 personas. Tiene 35 años, trabaja con laptop y celular, y usa WhatsApp, Instagram y llamadas para coordinar con artistas. Nos cuenta que su rol incluye seleccionar bandas, coordinar sonido, cuadrar horarios y verificar pagos, pero que gran parte del proceso es desordenado. A veces los músicos no mandan información completa, llegan tarde o no cumplen lo prometido. Le frustra no tener un sistema centralizado que le permita ver el calendario, firmar contratos digitalmente, recibir notificaciones automáticas o revisar propuestas ya filtradas según estilo musical. Le interesa profesionalizar la gestión de eventos, automatizar los pagos y dejar de depender de chats dispersos. Dice que si existiera una plataforma que agrupe todo —contratación, pagos, agenda y promoción— le facilitaría muchísimo el trabajo y le permitiría manejar más eventos sin tanto estrés. |
+| **Resumen**                 | Luis es administrador de “El Refugio”, un bar cultural en Barranco con capacidad para 120 personas. Tiene 35 años, trabaja con laptop y celular, y usa WhatsApp, Instagram y llamadas para coordinar con artistas. Nos cuenta que su rol incluye seleccionar bandas, coordinar sonido, cuadrar horarios y verificar pagos, pero que gran parte del proceso es desordenado. A veces los músicos no mandan información completa, llegan tarde o no cumplen lo prometido. Le frustra no tener un sistema centralizado que le permita ver el calendario, firmar contratos digitalmente, recibir notificaciones automáticas o revisar propuestas ya filtradas según estilo musical. Le interesa profesionalizar la gestión de eventos, automatizar los pagos y dejar de depender de chats dispersos. Dice que si existiera una plataforma que agrupe todo (contratación, pagos, agenda y promoción) le facilitaría muchísimo el trabajo y le permitiría manejar más eventos sin tanto estrés. |
 ----
 Entrevistado #2
 
@@ -212,3 +212,82 @@ Entrevistado #3
 
  
 ####   2.2.3 Análisis de entrevistas. 
+
+### 2.2.3. Análisis de entrevistas
+
+### Segmento Objetivo #1: Administradores de Locales
+
+A partir de las entrevistas realizadas a tres responsables de espacios culturales y de entretenimiento (Luis Gamarra, Carmen Navarro y Daniel Rivas) se identificaron patrones comunes, necesidades claras y desafíos compartidos en torno a la gestión de eventos musicales y contratación de artistas en el ámbito independiente.
+
+---
+
+#### Uso de Tecnología y Herramientas de Gestión
+
+Todos los entrevistados manifestaron usar tecnología básica para la gestión de sus espacios. Los dispositivos más frecuentes son el **celular y la laptop**, y las herramientas más empleadas son **WhatsApp, Instagram, llamadas telefónicas**, y **procesadores de texto como Word o Excel**.
+
+Sin embargo, a pesar del uso cotidiano de herramientas digitales, la gestión aún es **altamente manual y descentralizada**. Se evidenció que:
+
+- **100%** de los entrevistados utiliza WhatsApp como canal principal de coordinación con artistas.
+- **100%** emplea hojas de cálculo (Excel o similar) para organizar agendas o contratos.
+- **67%** aún redacta contratos de forma manual en Word.
+- **67%** indicó que reciben propuestas artísticas por redes sociales, principalmente **Instagram**, lo que dificulta su seguimiento.
+- **0%** usa actualmente una plataforma integral de contratación musical o programación de eventos.
+
+---
+#### Dispositivos Utilizados
+
+Con base en las entrevistas, se identificó que el 100% de los administradores utilizan tanto laptop como celular para llevar a cabo sus tareas, lo que refleja una necesidad de portabilidad y flexibilidad en su gestión diaria. Ninguno mencionó utilizar tabletas ni depender exclusivamente de un solo tipo de dispositivo.
+
+| Canal                   | Uso (%) |
+|------------------------|---------|
+| Laptop                 | 100%    |
+| Celular                | 100%    |
+
+![Dispositivos Utilizados](/assets/Dispositivos.png)
+
+
+---
+
+#### Canales de Comunicación más Usados
+
+| Canal                   | Uso (%) |
+|------------------------|---------|
+| WhatsApp               | 100%    |
+| Instagram (DMs)        | 67%     |
+| Llamadas telefónicas   | 67%     |
+| Correo electrónico     | 33%     |
+
+![Canales de Comunicación](/assets/Canales_C.png)
+
+La informalidad en estos canales genera pérdida de información y dificulta el seguimiento de acuerdos o condiciones pactadas.
+
+---
+
+#### Expectativas hacia Soluciones Tecnológicas
+
+Los tres entrevistados coinciden en la necesidad de **profesionalizar y automatizar** sus procesos. Los aspectos más valorados en una solución digital serían:
+
+- **Agenda visual compartida** para tener clara la programación de eventos.
+- **Contratos digitales automatizados**, con cláusulas estándar y firma integrada.
+- **Pagos seguros y automatizados**, que eviten retrasos y malentendidos financieros.
+- **Postulación filtrada por estilo musical**, evitando el desorden de revisar mensajes no relevantes.
+- **Historial de bandas y evaluación post-evento**, para generar confianza y decisiones basadas en reputación.
+- **Subida directa del rider técnico por parte del músico**, como una mejora logística clave.
+
+---
+
+#### Principales Desafíos Identificados
+
+| Desafío                                                    | Mención (%) |
+|-------------------------------------------------------------|-------------|
+| Informalidad en la contratación y comunicación              | 100%        |
+| Falta de una agenda visual centralizada                     | 100%        |
+| Redacción manual y repetitiva de contratos                  | 67%         |
+| Dificultad para recibir y filtrar propuestas artísticas     | 67%         |
+| Problemas logísticos derivados de cambios de último minuto  | 67%         |
+
+---
+![Desafios](/assets/desafios.png)
+#### Conclusiones del Segmento
+
+Los administradores entrevistados revelan una **alta carga operativa** asociada a la informalidad en la gestión musical. Existe una necesidad latente de una **plataforma digital integral como TocaAquí**, que centralice la contratación, pagos, agenda, comunicación y promoción. La solución tendría una **alta adopción** si se adapta a sus flujos actuales, reduce la fricción operativa y eleva el estándar profesional tanto para espacios como para artistas. Además, se percibe un interés genuino en dejar atrás los métodos dispersos y manuales por una gestión moderna, eficiente y confiable.
