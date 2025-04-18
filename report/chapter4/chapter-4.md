@@ -44,7 +44,11 @@ Hemos decidido implementar el patrón de diseño en forma de Z, un enfoque visua
 Siguiendo este patrón, ubicamos el logotipo de TocaAquí en la esquina superior izquierda, asegurando visibilidad inmediata de la marca. En la esquina superior derecha, colocamos la barra de navegación junto a un botón de acción destacado, como “Publicar Evento” o “Unirse como Músico”, fomentando así la participación activa de los usuarios.
 
 ## 4.2. Information Architecture.
+
+La arquitectura de información es esencial para organizar y estructurar el contenido de manera que sea fácilmente accesible y comprensible para los usuarios de la plataforma TocaAquí. En esta sección, se presentan los sistemas de organización, etiquetado, etiquetas SEO y metaetiquetas, sistemas de búsqueda y navegación que guiarán la experiencia del usuario. Estas directrices están diseñadas para mejorar la usabilidad, promover la exploración fluida del contenido y garantizar que cada usuario —ya sea músico o promotor— encuentre rápidamente lo que necesita.
+
 ### 4.2.1. Organization Systems.
+
 ### 4.2.2. Labeling Systems.
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems.
