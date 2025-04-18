@@ -331,14 +331,84 @@ Los tres entrevistados coinciden en la necesidad de **profesionalizar y automati
 
 Los administradores entrevistados revelan una **alta carga operativa** asociada a la informalidad en la gestión musical. Existe una necesidad latente de una **plataforma digital integral como TocaAquí**, que centralice la contratación, pagos, agenda, comunicación y promoción. La solución tendría una **alta adopción** si se adapta a sus flujos actuales, reduce la fricción operativa y eleva el estándar profesional tanto para espacios como para artistas. Además, se percibe un interés genuino en dejar atrás los métodos dispersos y manuales por una gestión moderna, eficiente y confiable.
 
-#### Segmento Objetivo #2: Artistas
+---
+
+### 2.2.3. Análisis de entrevistas
+
+### Segmento Objetivo #2: Artistas y Músicos Independientes
+
+A partir de las entrevistas realizadas a tres músicos con distintos perfiles y géneros —Diego Salazar (rock alternativo), Juan Gutiérrez (cumbia) y Luis Paredes (criollo)— se identifican patrones comunes que reflejan claramente los problemas de informalidad, incertidumbre y desorganización en la escena musical independiente. Todos ellos realizan múltiples presentaciones al mes, pero coinciden en que los procesos actuales de contratación son poco confiables y desordenados.
+
+---
+
+#### Herramientas y dispositivos más utilizados
+
+Los artistas entrevistados hacen uso intensivo de herramientas digitales básicas para coordinar sus presentaciones. Todos mencionaron el uso del celular como su herramienta principal, junto a canales como WhatsApp, llamadas e incluso Instagram.
+
+| Herramienta / Dispositivo   | Uso (%) |
+|-----------------------------|---------|
+| Celular                     | 100%    |
+| WhatsApp                    | 100%    |
+| Llamadas telefónicas        | 100%    |
+| Laptop                      | 67%     |
+| Instagram                   | 33%     |
+
+![Herramientas de artistas](/assets/Herramientas%20Y%20Dispositivos%20Más%20Utilizados%20Por%20Artistas.png)
+
+La gestión digital existe, pero es desarticulada. No utilizan plataformas centralizadas ni herramientas profesionales para contratación, pagos o promoción de sus eventos.
+
+---
+
+#### Canales de Coordinación
+
+Los tres entrevistados afirmaron que la coordinación con los promotores se realiza casi exclusivamente por WhatsApp o llamadas. Uno de ellos también recibe propuestas por DM de Instagram, aunque indicó que eso complica el seguimiento.
+
+Esto evidencia una alta dependencia de canales informales, lo que abre una gran oportunidad para una herramienta que centralice y profesionalice la gestión.
+
+---
+
+#### Desafíos Actuales Identificados
+
+| Desafío                                                        | Mención (%) |
+|----------------------------------------------------------------|-------------|
+| Informalidad en pagos                                           | 100%        |
+| Falta de contratos escritos o claros                           | 100%        |
+| Cambios de último minuto en condiciones o fechas               | 67%         |
+| Incertidumbre hasta el día del evento                          | 100%        |
+| Mala comunicación con algunos locales                          | 67%         |
+
+![Desafios de artistas](/assets/Desafíos%20Identificados%20Por%20Artistas.png)
+---
+
+#### Expectativas hacia soluciones tecnológicas
+
+Todos los artistas expresaron un fuerte interés por contar con una solución que:
+
+- Les permita centralizar fechas y postulaciones.
+- Ofrezca contratos digitales automáticos.
+- Garantice pagos seguros, idealmente bajo un sistema tipo escrow.
+- Permita promocionar sus shows de forma profesional.
+- Reduzca la necesidad de múltiples conversaciones y negociaciones por separado.
+
+---
+
+#### Conclusión del análisis
+
+Los artistas entrevistados tienen un perfil activo y profesional, pero operan dentro de un sistema informal y poco estructurado. Existe una clara necesidad de una plataforma como TocaAquí, que automatice y profesionalice todo el proceso de contratación musical: desde la postulación hasta el pago final.
+
+La falta de contratos y de seguridad en los pagos fue el punto más crítico mencionado en las tres entrevistas. Además, mostraron alta disposición a adoptar nuevas tecnologías si estas reducen el estrés operativo y les permiten enfocarse en lo que realmente importa: su música.
+
+
 
 ###   2.3. Needfinding. 
 
-####   2.3.1 User Personas. 
 
-Para entender mejor a nuestros usuarios clave, hemos creado dos perfiles de User Persona que representan de forma ficticia a nuestros segmentos principales: artistas independientes y administradores de locales. Estos perfiles nos permiten identificar sus motivaciones, frustraciones, hábitos y expectativas, facilitando el diseño de una solución más alineada con sus necesidades reales y mejorando así su experiencia con la plataforma.
+####   2.3.2 User Task Matrix. 
 
-#### Segmento Objetivo Administradores de locales
+####   2.3.3 User Journey Mapping. 
 
-![Administrador_user_persona](/assets/Administrador%20de%20Local.png)
+####   2.3.4 Empathy Mapping. 
+
+####   2.3.5 As-is Scenario Mapping.
+
+###   2.4 Ubiquitous Language..
