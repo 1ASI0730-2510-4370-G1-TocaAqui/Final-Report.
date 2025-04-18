@@ -58,3 +58,13 @@ El Sistema de Navegación es la estructura que permite a los usuarios desplazars
 -  Cotact Us
 -  Es
 -  Start Now
+
+### 4.3. Landing Page UI Design.
+
+#### 4.3.1 Landing Page Wireframe.
+
+#### 4.3.2 Landing Page Mock-up.
+
+Procederemos a mostrar el Landing Page Mock-up de la aplicación:
+
+![Landing_page](/assets/landing.png)
