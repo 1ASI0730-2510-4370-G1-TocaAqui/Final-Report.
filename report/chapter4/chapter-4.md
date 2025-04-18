@@ -100,7 +100,67 @@ Para facilitar aún más la exploración, el contenido se clasificará con base 
   Utilizado en listados como **directorios de bandas o lugares registrados**, para facilitar búsquedas directas.
 
 
-### 4.2.2. Labeling Systems.
+### 4.2.2. Labeling Systems
+
+Los sistemas de etiquetado son fundamentales para facilitar la navegación, mejorar la búsqueda interna del producto y optimizar la visibilidad del sitio en motores de búsqueda (SEO). En **TocaAquí**, se aplican diversas estrategias de etiquetado, tanto para la interfaz del usuario como para el contenido a nivel de código HTML.
+
+**Tipos de Etiquetado**
+
+- **Etiquetado Descriptivo:**  
+  Se utilizarán etiquetas claras y específicas que describen el contenido o funcionalidad de cada sección, por ejemplo: *"Explorar Eventos"*, *"Postular a Evento"*, *"Mis Contratos"*. Esto permitirá a los usuarios comprender rápidamente el propósito de cada página o módulo.
+
+- **Etiquetado por Audiencia:**  
+  La plataforma adapta sus etiquetas y menús según el tipo de usuario (Músico o Promotor), presentando términos relevantes para cada uno, como por ejemplo *"Mi Rider Técnico"* (para músicos) o *"Publicar Nueva Fecha"* (para locales).
+
+- **Etiquetado por Popularidad o Relevancia:**  
+  Se implementarán etiquetas dinámicas en secciones como *Eventos Destacados* o *Músicos Populares*, determinadas por la cantidad de interacciones, visitas o calificaciones. Estas etiquetas ayudarán a los usuarios a identificar rápidamente los contenidos más relevantes o valorados por la comunidad.
+  
+### 4.2.2. Labeling Systems
+
+Los sistemas de etiquetado (Labeling Systems) son fundamentales para mejorar la usabilidad, navegación y optimización en motores de búsqueda. En el caso de TocaAquí, se ha adoptado una estrategia de etiquetado clara, concisa y centrada en las necesidades de cada tipo de usuario: músicos y promotores.
+
+#### Tipos de Etiquetado
+
+- **Etiquetado Descriptivo**: Se utilizan etiquetas claras y comprensibles como "I'm an Artist", "I'm a Venue", "Select your ideal plan" o "Key tools to play live" que resumen con precisión el contenido y ayudan al usuario a encontrar lo que busca rápidamente.
+
+- **Etiquetado por Audiencia**: Se personalizan las secciones según el rol del usuario, usando etiquetas como “For Artists” y “For Venues” en los planes de membresía, mejorando la segmentación del contenido.
+
+- **Etiquetado Funcional**: Botones como “Get Started”, “Join today”, “Enviar” y “Apply Now” comunican acciones específicas que guían la interacción del usuario.
+
+
+**SEO Tags y Meta Tags**
+
+A continuación se detallan los principales metaetiquetas que se incluirán para cada página clave:
+
+**Landing Page (`index.html`)**
+
+- **Title**: TocaAquí – Where Musicians and Stages Meet
+- **Meta Description**: Discover TocaAquí, the platform that connects emerging artists with venues and promoters. Direct booking, digital contracts, secure payments, and event promotion in one place.
+- **Meta Keywords**: music booking, live gigs, musician platform, concert promotion, secure contracts, event management
+- **Meta Author**: TocaAquí Dev Team
+
+**Sección de Planes (`#package`)**
+
+- **Title**: TocaAquí Plans – Choose Your Ideal Membership
+- **Meta Description**: Compare TocaAquí plans for artists and venues. Enjoy features like escrow payments, technical validation, and promotion tools to manage your musical events.
+- **Meta Keywords**: musician plans, venue subscriptions, music gigs platform, artist benefits, live music tools
+- **Meta Author**: TocaAquí Dev Team
+
+**Sección de Contacto (`#contact`)**
+
+- **Title**: Contact TocaAquí – Get in Touch with Our Team
+- **Meta Description**: Send us a message with your questions or feedback. We're here to help artists and venues connect more effectively.
+- **Meta Keywords**: contact TocaAquí, music event platform, artist support, venue contact
+- **Meta Author**: TocaAquí Dev Team
+
+**Sección de Acerca de Nosotros (`#about-us`)**
+
+- **Title**: About TocaAquí – Empowering Live Music Connections
+- **Meta Description**: Learn more about the mission behind TocaAquí, our development team, and how we’re revolutionizing live music bookings.
+- **Meta Keywords**: about TocaAquí, music platform team, music technology, live music innovation
+- **Meta Author**: TocaAquí Dev Team
+
+
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems.
 
