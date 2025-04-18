@@ -177,9 +177,15 @@ El Sistema de Navegación es la estructura que permite a los usuarios desplazars
 -  Es
 -  Start Now
   
-## 4.3. Landing Page UI Design.
-### 4.3.1. Landing Page Wireframe.
-### 4.3.2. Landing Page Mock-up.
+### 4.3. Landing Page UI Design.
+
+#### 4.3.1 Landing Page Wireframe.
+
+#### 4.3.2 Landing Page Mock-up.
+
+Procederemos a mostrar el Landing Page Mock-up de la aplicación:
+
+![Landing_page](/assets/landing.png)
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 ### 4.4.2. Web Applications Wireflow Diagrams.
@@ -195,3 +201,4 @@ El Sistema de Navegación es la estructura que permite a los usuarios desplazars
 ### 4.7.2. Class Dictionary.
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram
+
