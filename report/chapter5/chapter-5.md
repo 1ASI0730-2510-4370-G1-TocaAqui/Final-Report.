@@ -6,6 +6,27 @@
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
 
+Para desplegar la **Landing Page** del proyecto **TocaAquí** usando **GitHub Pages**, se siguieron los siguientes pasos:
+
+1. **Ubicar el repositorio del proyecto**  
+   Se accede al repositorio público alojado en GitHub que contiene el código fuente del sitio:  
+   ![Paso 1](../../assets/Deploy-first.png)
+
+2. **Ir a la sección de configuración (Settings)**  
+   En la barra superior del repositorio, se hace clic en la pestaña **Settings**.
+
+   ![Paso 2](../../assets/Deploy-two.png)
+
+3. **Configurar GitHub Pages desde una rama**  
+   En la sección **Pages**, dentro de **Build and deployment**, se selecciona `Deploy from a branch`.  
+   Luego, se elige la rama `main` y la carpeta raíz `/ (root)` como origen del contenido.
+
+   ![Paso 3](../../assets/Deploy-three.png)
+
+Una vez configurado, GitHub genera automáticamente la URL pública del sitio, que queda disponible para validación, pruebas o entrevistas con usuarios.
+
+**URL:** [`https://1asi0730-2510-4370-g1-tocaaqui.github.io/Landing-Page/index.html`](https://1asi0730-2510-4370-g1-tocaaqui.github.io/Landing-Page/index.html)
+
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.X. Sprint n
 #### 5.2.X.1. Sprint Planning n
