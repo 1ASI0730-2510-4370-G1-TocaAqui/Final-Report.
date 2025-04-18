@@ -43,3 +43,18 @@ Hemos decidido implementar el patrón de diseño en forma de Z, un enfoque visua
 
 Siguiendo este patrón, ubicamos el logotipo de TocaAquí en la esquina superior izquierda, asegurando visibilidad inmediata de la marca. En la esquina superior derecha, colocamos la barra de navegación junto a un botón de acción destacado, como “Publicar Evento” o “Unirse como Músico”, fomentando así la participación activa de los usuarios.
 
+
+
+### 4.2.5. Navigation Systems
+
+El Sistema de Navegación es la estructura que permite a los usuarios desplazarse eficientemente entre las distintas secciones y páginas de la aplicación  
+  
+
+**Estructura de navegación:**  El Sistema de Navegación constará de las siguientes secciones principales en la barra de navegación
+
+-  Home
+-  Abour Us
+-  Packages
+-  Cotact Us
+-  Es
+-  Start Now
