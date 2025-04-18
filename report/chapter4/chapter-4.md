@@ -8,3 +8,13 @@ Un **Style Guideline** es un conjunto de normas y directrices que establecen có
 
 ![TocaAqui]()
 
+
+### 4.3. Landing Page UI Design.
+
+#### 4.3.1 Landing Page Wireframe.
+
+#### 4.3.2 Landing Page Mock-up.
+
+Procederemos a mostrar el Landing Page Mock-up de la aplicación:
+
+![Landing_page](/assets/landing.png)
