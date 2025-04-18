@@ -6,7 +6,7 @@ El **product design** es el proceso de crear un producto funcional y atractivo, 
 
 Un **Style Guideline** es un conjunto de normas y directrices que establecen cómo deben presentarse de manera consistente los elementos visuales y textuales en un proyecto. Esto incluye tipografía, colores, espaciado, tono de voz y otros detalles que garantizan una comunicación coherente y uniforme a lo largo del proyecto.
 
-#### 4.1.1. General Style Guidelines
+### 4.1.1. General Style Guidelines
 
 Para la creación del logo de nuestro producto **TocaAquí**, se ha optado por un diseño moderno y atractivo que refleje la misión y visión de la plataforma. El logotipo está compuesto por una tipografía estilizada y sencilla, acompañada de un ícono que simboliza la conexión entre músicos y promotores. La tipografía de "TocaAquí" es clara, con un toque creativo para transmitir dinamismo y accesibilidad. Los colores seleccionados para la paleta son cálidos y vibrantes, creando una sensación de energía y creatividad, lo cual refleja el mundo de la música y el entretenimiento. Se emplean tonos naranjas y dorados para transmitir energía y creatividad, mientras que los tonos de gris y blanco aportan un contraste elegante y moderno
 
@@ -34,4 +34,12 @@ La paleta de colores de **TocaAquí** está diseñada para transmitir **creativi
 El espaciado en TocaAquí ha sido cuidadosamente diseñado para asegurar una interfaz intuitiva y fácil de usar. El objetivo es proporcionar una experiencia de usuario fluida, con suficiente espacio entre los elementos para mejorar la legibilidad y facilitar la interacción. Un espaciado uniforme en todo el diseño mantiene una estructura ordenada y clara, sin sobrecargar visualmente a los usuarios.
 
 ![Spancing](/assets/Spancing.png)
+
+### 4.1.2. Web Style Guidelines
+
+Para TocaAquí, estamos desarrollando una plataforma web responsiva que se adapta a distintos dispositivos, como laptops, tablets y smartphones. Esta decisión responde a la necesidad de brindar una experiencia accesible y fluida para músicos, promotores y usuarios desde cualquier lugar.
+
+Hemos decidido implementar el patrón de diseño en forma de Z, un enfoque visual que facilita el recorrido del ojo humano a través de la interfaz. Este patrón guía al usuario hacia los elementos más importantes de la página, mejorando la retención de información y la interacción con el contenido.
+
+Siguiendo este patrón, ubicamos el logotipo de TocaAquí en la esquina superior izquierda, asegurando visibilidad inmediata de la marca. En la esquina superior derecha, colocamos la barra de navegación junto a un botón de acción destacado, como “Publicar Evento” o “Unirse como Músico”, fomentando así la participación activa de los usuarios.
 
