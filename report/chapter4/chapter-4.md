@@ -43,12 +43,70 @@ Hemos decidido implementar el patrón de diseño en forma de Z, un enfoque visua
 
 Siguiendo este patrón, ubicamos el logotipo de TocaAquí en la esquina superior izquierda, asegurando visibilidad inmediata de la marca. En la esquina superior derecha, colocamos la barra de navegación junto a un botón de acción destacado, como “Publicar Evento” o “Unirse como Músico”, fomentando así la participación activa de los usuarios.
 
+## 4.2. Information Architecture.
 
+La arquitectura de información es esencial para organizar y estructurar el contenido de manera que sea fácilmente accesible y comprensible para los usuarios de la plataforma TocaAquí. En esta sección, se presentan los sistemas de organización, etiquetado, etiquetas SEO y metaetiquetas, sistemas de búsqueda y navegación que guiarán la experiencia del usuario. Estas directrices están diseñadas para mejorar la usabilidad, promover la exploración fluida del contenido y garantizar que cada usuario —ya sea músico o promotor— encuentre rápidamente lo que necesita.
+
+### 4.2.1. Organization Systems.
+
+Los sistemas de organización que se implementarán en **TocaAquí** responden a distintos contextos de uso y tipos de contenido que ofrece la plataforma. A continuación, se describen los tipos de organización aplicados y los esquemas de categorización adoptados:
+
+**Organización Jerárquica (Visual Hierarchy)**
+
+Se utilizará para estructurar la **navegación principal** y secciones clave como:
+
+- **Inicio**
+- **Explorar Eventos**
+- **Perfil del Usuario (Músico / Promotor)**
+- **Agenda / Contratos / Pagos**
+
+Este modelo permite descomponer la información desde niveles generales a específicos  
+(por ejemplo: "Explorar Eventos" → "Por Género Musical" → "Rock / Jazz / Cumbia").
+
+**Organización Secuencial (Step-by-Step)**
+
+Aplicada en flujos que requieren que el usuario siga pasos lógicos y cronológicos, como:
+
+- **Publicar un evento** (para locales/promotores)
+- **Postular a un evento** (para músicos)
+- **Proceso de firma de contrato y pagos**
+
+Este modelo guía al usuario en tareas complejas, asegurando que cada paso sea completado antes de continuar.
+
+**Organización Matricial**
+
+Utilizada en las interfaces de exploración de eventos o perfiles, donde los usuarios podrán:
+
+- **Filtrar por múltiples criterios** (género, ubicación, fecha, tipo de espacio)
+- **Comparar distintos resultados** en base a atributos visibles (rating, disponibilidad, tipo de música)
+
+La combinación flexible de filtros permite una navegación personalizada y precisa.
+
+
+**Esquemas de Categorización**
+
+Para facilitar aún más la exploración, el contenido se clasificará con base en diferentes esquemas según el contexto:
+
+- **Por Tópico:**  
+  Utilizado en secciones como *blog*, *centro de ayuda* o *categorías musicales* (ej. “Rock”, “Jazz”, “Electrónica”).
+
+- **Por Audiencia:**  
+  El contenido diferenciado para **músicos** y **promotores** será organizado en menús y vistas personalizadas, destacando las funciones que cada uno utiliza más frecuentemente.
+
+- **Cronológico:**  
+  Aplicado en la **agenda de eventos**, **historial de contrataciones** y **publicaciones recientes**.
+
+- **Alfabético:**  
+  Utilizado en listados como **directorios de bandas o lugares registrados**, para facilitar búsquedas directas.
+
+
+### 4.2.2. Labeling Systems.
+### 4.2.3. SEO Tags and Meta Tags
+### 4.2.4. Searching Systems.
 
 ### 4.2.5. Navigation Systems
 
 El Sistema de Navegación es la estructura que permite a los usuarios desplazarse eficientemente entre las distintas secciones y páginas de la aplicación  
-  
 
 **Estructura de navegación:**  El Sistema de Navegación constará de las siguientes secciones principales en la barra de navegación
 
@@ -58,7 +116,7 @@ El Sistema de Navegación es la estructura que permite a los usuarios desplazars
 -  Cotact Us
 -  Es
 -  Start Now
-
+  
 ### 4.3. Landing Page UI Design.
 
 #### 4.3.1 Landing Page Wireframe.
@@ -68,3 +126,19 @@ El Sistema de Navegación es la estructura que permite a los usuarios desplazars
 Procederemos a mostrar el Landing Page Mock-up de la aplicación:
 
 ![Landing_page](/assets/landing.png)
+## 4.4. Web Applications UX/UI Design.
+### 4.4.1. Web Applications Wireframes.
+### 4.4.2. Web Applications Wireflow Diagrams.
+### 4.4.3. Web Applications Mock-ups.
+### 4.4.4. Web Applications User Flow Diagrams.
+## 4.5. Web Applications Prototyping.
+## 4.6. Domain-Driven Software Architecture.
+## 4.6.1. Software Architecture Context Diagram.
+### 4.6.2. Software Architecture Container Diagrams.
+### 4.6.3. Software Architecture Components Diagrams.
+## 4.7. Software Object-Oriented Design.
+### 4.7.1. Class Diagrams.
+### 4.7.2. Class Dictionary.
+## 4.8. Database Design.
+### 4.8.1. Database Diagram
+
