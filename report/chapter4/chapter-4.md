@@ -49,6 +49,57 @@ La arquitectura de información es esencial para organizar y estructurar el cont
 
 ### 4.2.1. Organization Systems.
 
+Los sistemas de organización que se implementarán en **TocaAquí** responden a distintos contextos de uso y tipos de contenido que ofrece la plataforma. A continuación, se describen los tipos de organización aplicados y los esquemas de categorización adoptados:
+
+**Organización Jerárquica (Visual Hierarchy)**
+
+Se utilizará para estructurar la **navegación principal** y secciones clave como:
+
+- **Inicio**
+- **Explorar Eventos**
+- **Perfil del Usuario (Músico / Promotor)**
+- **Agenda / Contratos / Pagos**
+
+Este modelo permite descomponer la información desde niveles generales a específicos  
+(por ejemplo: "Explorar Eventos" → "Por Género Musical" → "Rock / Jazz / Cumbia").
+
+**Organización Secuencial (Step-by-Step)**
+
+Aplicada en flujos que requieren que el usuario siga pasos lógicos y cronológicos, como:
+
+- **Publicar un evento** (para locales/promotores)
+- **Postular a un evento** (para músicos)
+- **Proceso de firma de contrato y pagos**
+
+Este modelo guía al usuario en tareas complejas, asegurando que cada paso sea completado antes de continuar.
+
+**Organización Matricial**
+
+Utilizada en las interfaces de exploración de eventos o perfiles, donde los usuarios podrán:
+
+- **Filtrar por múltiples criterios** (género, ubicación, fecha, tipo de espacio)
+- **Comparar distintos resultados** en base a atributos visibles (rating, disponibilidad, tipo de música)
+
+La combinación flexible de filtros permite una navegación personalizada y precisa.
+
+
+**Esquemas de Categorización**
+
+Para facilitar aún más la exploración, el contenido se clasificará con base en diferentes esquemas según el contexto:
+
+- **Por Tópico:**  
+  Utilizado en secciones como *blog*, *centro de ayuda* o *categorías musicales* (ej. “Rock”, “Jazz”, “Electrónica”).
+
+- **Por Audiencia:**  
+  El contenido diferenciado para **músicos** y **promotores** será organizado en menús y vistas personalizadas, destacando las funciones que cada uno utiliza más frecuentemente.
+
+- **Cronológico:**  
+  Aplicado en la **agenda de eventos**, **historial de contrataciones** y **publicaciones recientes**.
+
+- **Alfabético:**  
+  Utilizado en listados como **directorios de bandas o lugares registrados**, para facilitar búsquedas directas.
+
+
 ### 4.2.2. Labeling Systems.
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems.
