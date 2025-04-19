@@ -216,6 +216,10 @@ El Sistema de Navegación es la estructura que permite a los usuarios desplazars
 
 #### 4.3.1 Landing Page Wireframe.
 
+Procederemos a mostrar el Landing Page Wireframe de la aplicación:
+
+![Landing_page](/assets/wireframes-landing.png)
+
 #### 4.3.2 Landing Page Mock-up.
 
 Procederemos a mostrar el Landing Page Mock-up de la aplicación:
