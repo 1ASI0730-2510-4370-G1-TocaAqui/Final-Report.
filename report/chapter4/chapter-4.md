@@ -162,7 +162,42 @@ A continuación se detallan los principales metaetiquetas que se incluirán para
 
 
 ### 4.2.3. SEO Tags and Meta Tags
+
 ### 4.2.4. Searching Systems.
+
+El motor de búsqueda en **TocaAquí** es esencial para conectar eficazmente a músicos emergentes con promotores y espacios culturales. Permite a los usuarios encontrar rápidamente talento o lugares que se ajusten a sus necesidades específicas.
+
+#### Características claves
+
+
+**Búsqueda por objetivo:**  
+Los usuarios podrán buscar según su intención principal, ya sea **contratar un músico para un evento específico**, encontrar **espacios disponibles para presentaciones**, o **descubrir nuevos talentos musicales** según el estilo deseado.
+
+**Búsqueda por características:**  
+
+Los usuarios podrán filtrar por características específicas como:  
+- **Género musical** (rock, jazz, urbano, clásico, etc.)  
+- **Tipo de evento** (bar, teatro, festival, privado)  
+- **Cantidad de integrantes**  
+- **Instrumentos principales o configuración escénica**  
+- **Valoraciones de otros eventos**
+
+**Filtros avanzados:**  
+
+El sistema incluirá filtros dinámicos como:  
+- Ubicación geográfica  
+- Disponibilidad en fechas y horarios  
+- Rango de precios  
+- Experiencia previa en tipos de evento  
+- Validación de rider técnico
+
+**Resultados relevantes:**  
+
+Los resultados de búsqueda serán personalizados y ordenados de acuerdo a:  
+- Coincidencia con criterios del usuario  
+- Popularidad y reseñas  
+- Disponibilidad inmediata  
+- Afinidad con eventos anteriores contratados por el usuario
 
 ### 4.2.5. Navigation Systems
 
