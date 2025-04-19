@@ -197,7 +197,39 @@ Procederemos a mostrar el Landing Page Mock-up de la aplicación:
 ### 4.6.2. Software Architecture Container Diagrams.
 ### 4.6.3. Software Architecture Components Diagrams.
 ## 4.7. Software Object-Oriented Design.
+En esta sección, presentamos el diagrama de clases y la implementación de diversos patrones de diseño para optimizar la estructura y la eficiencia del sistema.
 ### 4.7.1. Class Diagrams.
+El siguiente diagrama representa la estructura de clases basada en Domain-Driven Design (DDD) para la plataforma TocaAquí, que conecta músicos con promotores culturales para facilitar la organización de eventos.
+
+1. Dominio: Usuario
+Incluye la clase base Usuario, de la cual heredan las entidades Musico y Promotor. Cada subclase contiene atributos y métodos específicos de su rol:
+
+Musico: puede postular a eventos y subir su rider técnico.
+
+Promotor: puede publicar eventos y revisar postulaciones.
+
+2. Dominio: Evento
+La clase Evento agrupa la información del show, como título, fecha, género y pago ofrecido. Está asociada tanto a músicos como a promotores a través de postulaciones y confirmaciones.
+
+3. Dominio: Contrato y Pago
+El contrato digital se representa mediante la clase Contrato, la cual vincula a un músico, un promotor y un evento. Cada contrato puede tener asociado un Pago, el cual refleja el estado de la transacción (pendiente, en escrow, liberado). Se utiliza una interfaz IPaymentAdapter para mantener desacoplada la lógica de pagos.
+
+4. Dominio: Logística y Evaluación
+Incluye:
+
+RiderTecnico: contiene los requerimientos técnicos del músico.
+
+Evaluacion: permite a los usuarios evaluarse mutuamente al finalizar un evento.
+
+5. Interfaces de Infraestructura
+IAuthenticationAdapter: define la abstracción para el proceso de autenticación.
+
+IPaymentAdapter: define la abstracción para el procesamiento de pagos, permitiendo integrar múltiples proveedores sin alterar la lógica de dominio.
+
+Relación entre clases
+Se modelan relaciones de herencia, asociación y uso entre entidades, promoviendo una arquitectura clara, modular y alineada con los principios de responsabilidad única y bajo acoplamiento.
+
+![Class Diargam](../../assets/Class_Diagram.png)
 ### 4.7.2. Class Dictionary.
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram
