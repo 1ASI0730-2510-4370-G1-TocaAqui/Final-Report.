@@ -414,12 +414,92 @@ Para entender mejor a nuestros usuarios clave, hemos creado dos perfiles de User
 
 ![Artista_user_persona](/assets/Artista%20Independiente.png)
 
-####   2.3.2 User Task Matrix. 
+####   2.3.2 User Task Matrix.
 
-####   2.3.3 User Journey Mapping. 
+#### - Artista Independiente:
 
-####   2.3.4 Empathy Mapping. 
+| **Tareas** | **Frecuencia** | **Importancia** |
+|------------|----------------|-----------------|
+| Buscar y postularse a nuevos escenarios y eventos | Always | High |
+| Firmar contratos formales para presentaciones | Sometimes | High |
+| Coordinar fechas, pagos y ensayos desde una sola plataforma | Always | High |
+| Gestionar su agenda y compromisos artísticos | Always | High |
+| Promocionar sus eventos en redes sociales | Sometimes | Medium |
+| Crear y actualizar su perfil artístico profesional | Always | High |
+| Evaluar presentaciones y recibir feedback para mejorar | Sometimes | Medium |
+| Asegurar pagos mediante mecanismos confiables | Sometimes | High |
+| Crear contenido para mantener su visibilidad en redes | Sometimes | Medium |
+
+---
+
+#### - Administrador de Local:
+
+| **Tareas** | **Frecuencia** | **Importancia** |
+|------------|----------------|-----------------|
+| Publicar disponibilidad de fechas y espacios para eventos | Always | High |
+| Recibir y filtrar propuestas de artistas | Always | High |
+| Coordinar logística y ensayos de manera organizada | Sometimes | High |
+| Formalizar contratos y pagos a través de una plataforma | Sometimes | High |
+| Gestionar inventario técnico (sonido, luces, etc.) | Sometimes | Medium |
+| Evaluar artistas después de los eventos | Sometimes | Medium |
+| Promocionar eventos en redes sociales | Sometimes | Medium |
+| Controlar asistencia y recolectar feedback del público | Sometimes | Medium |
+| Automatizar tareas operativas para ahorrar tiempo | Always | High |
+
+####   2.3.3 User Journey Mapping.
+
+En esta sección, analizaremos el recorrido del usuario al utilizar nuestra plataforma TocaAqui
+
+**Segmento 1: Músicos Independientes** <br>
+<img src="/assets/musicosjourneymap.png" alt="Musicos" > <br>
+
+**Segmento 2: Promotores** <br>
+<img src="/assets/PromotoresJourneymap.png" alt="Promotores" > <br>   
+
+####   2.3.4 Empathy Mapping.
+
+En esta sección se presenta el Empathy Mapping, una herramienta para crear un perfil detallado de los user personas y desarrollar una comprensión profunda de su perspectiva y experiencia. Para cada user persona, se incluyen cinco elementos clave: lo que el usuario ve, lo que el usuario escucha, lo que el usuario dice, lo que el usuario hace y lo que el usuario siente.
+
+**Segmento 1: Músicos Independientes** <br>
+<img src="/assets/musicosEmp.png" alt="Musicos" ></a> <br>
+
+**Segmento 2: Promotores** <br>
+<img src="/assets/musicosEmpathy.png" alt="Promotores" ></a> <br> 
 
 ####   2.3.5 As-is Scenario Mapping.
 
-###   2.4 Ubiquitous Language..
+**As-Is Scenario Mapping Músicos Independientes** <br>
+
+**Preparación de la actividad** <br>
+Preparamos el cuadro y lo dividimos en fases: Steps, Doing, Thinking y Feeling
+
+<img src="/assets/paso1-AsIs.png" alt="Paso1" width="700" ></a> <br>  
+
+**Brainstorming** <br>
+Se obtuvo el siguiente resultado en el proceso de la lluvia de ideas:
+
+<img src="/assets/paso2-AsIs1.png" alt="Paso2" width="700" ></a> <br>  
+
+**As-Is Scenario Mapping Músicos Independientes** <br>
+Finalmente, luego de identificar las fases y organizar ideas, se obtuvo el siguiente resultado:
+
+<img src="/assets/paso3-AsIs1.png" alt="Paso2" width="700" ></a> <br>  
+
+**As-Is Scenario Mapping Promotores** <br>
+
+**Preparación de la actividad** <br>
+Preparamos el cuadro y lo dividimos en fases: Steps, Doing, Thinking y Feeling
+
+<img src="/assets/paso1-AsIs.png" alt="Paso1" width="700" ></a> <br>  
+
+**Brainstorming** <br>
+Se obtuvo el siguiente resultado en el proceso de la lluvia de ideas:
+
+<img src="/assets/paso2-AsIs2.png" alt="Paso2" width="700" ></a> <br>  
+
+**As-Is Scenario Mapping Músicos Independientes** <br>
+Finalmente, luego de identificar las fases y organizar ideas, se obtuvo el siguiente resultado:
+
+<img src="/assets/paso3-AsIs2.png" alt="Paso2" width="700" ></a> <br>
+
+###   2.4 Ubiquitous Language.
