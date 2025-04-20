@@ -503,3 +503,21 @@ Finalmente, luego de identificar las fases y organizar ideas, se obtuvo el sigui
 <img src="/assets/paso3-AsIs2.png" alt="Paso2" width="700" ></a> <br>
 
 ###   2.4 Ubiquitous Language.
+
+A continuación se presenta un glosario con los términos centrales del dominio de la plataforma **TocaAquí**. Este vocabulario compartido garantiza que todas las partes involucradas (usuarios, desarrolladores, stakeholders) utilicen un lenguaje consistente y sin ambigüedades.
+
+| **Término (Inglés)**       | **Término (Español)**          | **Definición clara y compartida** |
+|----------------------------|-------------------------------|-----------------------------------|
+| **Artist**                 | Artista                        | Músico independiente o banda registrada en la plataforma que busca espacios para tocar en vivo. |
+| **Venue**                  | Local / Espacio                | Bar, discoteca, café cultural u otro lugar físico que organiza eventos musicales y contrata artistas. |
+| **Booking**                | Contratación / Reserva         | Proceso de solicitud, selección y confirmación de un artista por parte de un local para una fecha específica. |
+| **Application**            | Postulación                    | Acción mediante la cual un artista se propone para tocar en una fecha publicada por un local. |
+| **Digital Contract**       | Contrato digital               | Acuerdo legal generado automáticamente por la plataforma y firmado por ambas partes (artista y local). |
+| **Escrow Payment**         | Pago con garantía (escrow)     | Sistema de pago seguro en el que el dinero se libera solo después de realizarse el evento según lo acordado. |
+| **Technical Rider**        | Rider técnico                  | Documento que contiene los requerimientos técnicos del artista para su presentación (sonido, luces, etc.). |
+| **Soundcheck**             | Prueba de sonido               | Ensayo técnico previo al evento para ajustar equipos de audio e instrumentos en el escenario. |
+| **Shared Agenda**          | Agenda compartida              | Herramienta visual donde locales y artistas pueden ver fechas reservadas, confirmadas y disponibles. |
+| **Event Promotion**        | Promoción del evento           | Acciones realizadas para visibilizar un show programado (publicación en redes, cartelera digital, etc.). |
+| **Post-event Evaluation**  | Evaluación post-evento         | Sistema de calificación y feedback mutuo entre artistas y locales una vez realizado el evento. |
+| **Filtered Application**   | Postulación filtrada           | Mecanismo mediante el cual los locales reciben propuestas artísticas según criterios definidos (género, reputación, etc.). |
+| **Logistics Manager**      | Gestor de logística            | Módulo de la plataforma que centraliza todos los detalles técnicos, fechas, contratos y coordinación del evento. |
