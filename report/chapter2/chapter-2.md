@@ -220,9 +220,9 @@ Entrevistado #1
 | **Nombre del entrevistado**  | Diego Salazar                                                                                                                         |
 | **Edad**                     | 22 años                                                                                                                               |
 | **Distrito**                 | Miraflores                                                                                                                            |
-| **Screenshot de la entrevista** |                                                                                                                     |
-| **Link de la entrevista**    |                                                                                                                     |
-| **Tiempo de inicio y duración** |                                                                                                                  |
+| **Screenshot de la entrevista** |        <img src="../../assets/Entrevista_Diego.png" alt="Entrevista Diego" width="300"/>                          |
+| **Link de la entrevista**    |           [Ver entrevista en YouTube](https://youtu.be/NMcpm9ncwNU)                                                                                                          |
+| **Tiempo de inicio y duración** |                  0:00 - 2:35                                                                                                |
 | **Resumen**                  | Diego es guitarrista y vocalista en una banda de rock alternativo con base en Miraflores. Tiene 6 años de experiencia en la escena independiente y suele tocar 2-3 veces por mes, especialmente en bares y pequeños festivales. Coordina sus shows usando celular, laptop e Instagram, pero siente que todo el proceso es poco formal y genera mucha incertidumbre, especialmente en pagos y cumplimiento de horarios. Considera que la gestión es muy desordenada y dependiente de la buena voluntad de cada promotor. Le gustaría que una plataforma le permita centralizar fechas, asegurar pagos con escrow y gestionar contratos digitales, para enfocarse más en la música y menos en la negociación informal. |
 
 ----
@@ -233,9 +233,9 @@ Entrevistado #2
 | **Nombre del entrevistado**  | Juan Gutiérrez                                                                                                              |
 | **Edad**                     | 24 años                                                                                                                               |
 | **Distrito**                 | Comas                                                                                                                                 |
-| **Screenshot de la entrevista** |                                                                                                                     |
-| **Link de la entrevista**    |                                                                                                                     |
-| **Tiempo de inicio y duración** |                                                                                                                  |
+| **Screenshot de la entrevista** |        <img src="../../assets/Entrevista_Juan.png" alt="Entrevista Juan" width="300"/>                                                                                                             |
+| **Link de la entrevista**    |              [Ver entrevista en YouTube](https://www.youtube.com/watch?v=TqBvzNsjQ6o)                                                                                                                                           |
+| **Tiempo de inicio y duración** |             0:00-2:27                                                                                                     |
 | **Resumen**                  | Juanelo es vocalista de “Los Soneros del Amor”, una banda de cumbia que trabaja activamente en eventos sociales, discotecas y matrimonios. Vive en Comas y realiza entre 6 a 8 presentaciones mensuales. Su principal medio de coordinación es el celular, usando sobre todo WhatsApp y llamadas para concretar fechas. Menciona que los contratos casi nunca se formalizan y los pagos suelen ser inciertos hasta el día del evento, generando estrés y cancelaciones imprevistas. Le interesa especialmente una solución digital que garantice seguridad en pagos y centralice todas las gestiones, reduciendo riesgos y mejorando la confianza con los espacios. |
 
 ----
@@ -246,9 +246,9 @@ Entrevistado #3
 | **Nombre del entrevistado**  | Luis  Paredes                                                                                                                  |
 | **Edad**                     | 30 años                                                                                                                               |
 | **Distrito**                 | Pueblo Libre                                                                                                                          |
-| **Screenshot de la entrevista** |                                                                                                                     |
-| **Link de la entrevista**    |                                                                                                                     |
-| **Tiempo de inicio y duración** |                                                                                                                  |
+| **Screenshot de la entrevista** |             <img src="../../assets/Entrevista_Luis.png" alt="Entrevista Luis" width="300"/>                                                                                                         |
+| **Link de la entrevista**    |     [Ver entrevista en YouTube](https://www.youtube.com/watch?v=OO60W2Daxog)                                                                                                                                                                 |
+| **Tiempo de inicio y duración** |                0:00-2:47                                                                                                  |
 | **Resumen**                  | Lucho es músico criollo con más de 18 años de trayectoria, vive en Pueblo Libre y trabaja como solista y en dúos en peñas, restaurantes y eventos culturales. Realiza entre 4 a 5 presentaciones mensuales. Coordina sus fechas por WhatsApp o llamadas, sin usar contratos formales, lo que muchas veces ha provocado malentendidos en pagos y condiciones. Considera que la informalidad es el principal problema de la escena y que una plataforma como TocaAquí podría facilitar mucho su trabajo si le ofrece contratos digitales, pagos garantizados y un espacio donde promover su agenda de shows. |
 
 ####   2.2.3 Análisis de entrevistas. 
