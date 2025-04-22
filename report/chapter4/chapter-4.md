@@ -226,7 +226,99 @@ Procederemos a mostrar el Landing Page Mock-up de la aplicación:
 
 ![Landing_page](/assets/landing.png)
 ## 4.4. Web Applications UX/UI Design.
+
 ### 4.4.1. Web Applications Wireframes.
+
+En esta sección se muestran los wireframes realizados para nuestro Web Application.
+
+Login
+
+![Login](/assets/Login.png)
+
+Panel de control del artista
+
+![Artisit_Dashboard](/assets/Artisit%20Dashboard.png)
+
+Perfil del artista
+
+![Artist_Profile](/assets/Artist%20Profile.png)
+
+Perfil del productor
+
+![Productor_Profile](/assets/Productor%20Profile.png)
+
+Agenda
+
+![Agenda](/assets/Agenda.png)
+
+Postulaciones
+
+![Postulaciones](/assets/Postulaciones.png)
+
+Panel de control del productor
+
+![Productor_Dashboard](/assets/Productor%20Dashboar.png)
+ 
+ Este es para el promotor del evento 
+
+![Evaluacion_post_evento_Promotor](/assets/Evaluación%20%20post%20evento%20Promotor.png)
+
+![Evaluacion_post_evento_Promotor_(1)](/assets/Evaluación%20%20post%20evento%20Promotor%20(1).png)
+
+Este es para el partista del evento 
+
+![Evaluacion_post_evento_Músico](/assets/Evaluación%20%20post%20evento%20Músico.png)
+
+![Evalucion_post_evento_Músico](/assets/Evaluación%20%20post%20evento%20Músico(1).png)
+
+![Evaluacion_post_evento_Músico](/assets/Evaluación%20%20post%20evento%20Músico(2).png)
+
+![Evaluacion_post_evento_Músico](/assets/Evaluación%20%20post%20evento%20Músico(3).png)
+
+Promoción del evento y entradas
+
+![Promocion_del_evento_y_entradas](/assets/Promocion%20del%20evento%20y%20entradas.png)
+
+![Promocion_del_evento_y_entradas_(1)](/assets/Promocion%20del%20evento%20y%20entradas%20(1).png)
+
+![Promocion_del_evento_y_entradas_(2)](/assets/Promocion%20del%20evento%20y%20entradas%20(2).png)
+
+![Promocion_del_evento_y_entradas_(3)](/assets/Promocion%20del%20evento%20y%20entradas%20(3).png)
+
+![Promocion_del_evento_y_entradas_(4)](/assets/Promocion%20del%20evento%20y%20entradas%20(4).png)
+
+![Promocion_del_evento_y_entradas_(5)](/assets/Promocion%20del%20evento%20y%20entradas%20(5).png)
+
+![Promocion_del_evento_y_entradas_(6)](/assets/Promocion%20del%20evento%20y%20entradas%20(6).png)
+
+Pagos promotor
+
+![Pagos_Promotor](/assets/Pagos%20promotor.png)
+
+![Pagos_Promotor_(1)](/assets/Pagos%20promotor%20(1).png)
+
+Pagos artista
+
+![Pago_artista](/assets/Pagos%20artista.png)
+
+![Pago_artista_(1)](/assets/Pagos%20artista%20(1).png)
+
+Contrato Digital
+
+![Contrato_Digital](/assets/Contrato%20Digital.png)
+
+![Contrato_Digital_(1)](/assets/Contrato%20Digital%20(1).png)
+
+![Contrato_Digital_(2)](/assets/Contrato%20Digital%20(2).png)
+
+Rider Tecnico/Logistico
+![Logistico](/assets/Logistico.png)
+
+![Logistico_(1)](/assets/Logistico(1).png)
+
+![Logistico_(2)](/assets/Logistico(2).png)
+
+![Logistica_(3)](/assets/Logistico(3).png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
