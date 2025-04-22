@@ -278,7 +278,7 @@ A continuación se presenta la descripción de las clases principales del domini
 #### Usuario
 | Atributos  | Tipo       |
 | ---------- | ---------- |
-| id         | UUID       |
+| id         | number       |
 | nombre     | string     |
 | correo     | string     |
 | contrasena | string     |
@@ -318,7 +318,7 @@ A continuación se presenta la descripción de las clases principales del domini
 #### Evento
 | Atributos    | Tipo         |
 | ------------ | ------------ |
-| id           | UUID         |
+| id           | number         |
 | titulo       | string       |
 | descripcion  | string       |
 | fecha        | DateTime     |
@@ -334,7 +334,7 @@ A continuación se presenta la descripción de las clases principales del domini
 #### Contrato
 | Atributos | Tipo           |
 | --------- | -------------- |
-| id        | UUID           |
+| id        | number           |
 | evento    | Evento         |
 | musico    | Musico         |
 | promotor  | Promotor       |
@@ -348,7 +348,7 @@ A continuación se presenta la descripción de las clases principales del domini
 #### Pago
 | Atributos | Tipo       |
 | --------- | ---------- |
-| id        | UUID       |
+| id        | number       |
 | contrato  | Contrato   |
 | monto     | float      |
 | estado    | EstadoPago |
@@ -360,7 +360,7 @@ A continuación se presenta la descripción de las clases principales del domini
 #### RiderTecnico
 | Atributos           | Tipo   |
 | ------------------- | ------ |
-| id                  | UUID   |
+| id                  | number   |
 | requerimientos      | string |
 | archivoAdjunto      | string |
 | comentariosPromotor | string |
@@ -372,7 +372,7 @@ A continuación se presenta la descripción de las clases principales del domini
 #### Evaluacion
 | Atributos  | Tipo    |
 | ---------- | ------- |
-| id         | UUID    |
+| id         | number    |
 | evaluador  | Usuario |
 | evaluado   | Usuario |
 | estrellas  | int     |
