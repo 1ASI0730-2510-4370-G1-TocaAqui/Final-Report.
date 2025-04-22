@@ -81,6 +81,9 @@
 | TS19 | Estadísticas de promoción del evento vía RESTful API | Como desarrollador, quiero permitir que los locales accedan a estadísticas de promoción mediante un RESTful API, para conocer el impacto de difusión del show. | **Escenario 1: Acceso a estadísticas del evento**<br>**Given** que el endpoint “/api/v1/events/{id}/stats” está disponible<br>**When** el promotor hace un GET<br>**Then** se recibe un status 200<br>**And** el body incluye visitas, clics, entradas compartidas y confirmaciones.<br><br>**Escenario 2: Evento sin datos de promoción**<br>**Given** que el evento aún no ha sido compartido<br>**When** se consulta el endpoint<br>**Then** se recibe un status 204<br>**And** no se devuelve contenido. | |
 | TS20 | Carga de multimedia en el perfil del artista vía RESTful API | Como desarrollador, quiero que los artistas puedan subir audios, videos o enlaces a su perfil a través de un RESTful API, para mejorar su visibilidad profesional. | **Escenario 1: Carga exitosa de contenido**<br>**Given** que el endpoint “/api/v1/artists/media” está disponible<br>**When** el artista sube un archivo multimedia o URL<br>**Then** se recibe un status 201<br>**And** el archivo se asocia correctamente a su perfil público.<br><br>**Escenario 2: Formato no permitido**<br>**Given** que se intenta subir un archivo no válido<br>**When** se hace el POST<br>**Then** se recibe un status 400<br>**And** el mensaje es: "Formato de archivo no permitido. Usa MP3, MP4 o enlaces válidos." | |
 ## 3.3. Impact Mapping.
+
+![Impact Mapping](/assets/impact.png)
+
 ## 3.4. Product Backlog.
 Utilizamos la escala de Fibonacci para la estimación de los Story Points.
 
