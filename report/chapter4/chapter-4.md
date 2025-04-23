@@ -426,7 +426,13 @@ Rider Tecnico/Logistico
 ## 4.5. Web Applications Prototyping.
 ## 4.6. Domain-Driven Software Architecture.
 ## 4.6.1. Software Architecture Context Diagram.
+
+![Rider_Tecnico/Logistico_Mock_(3)](/assets/structurizr-Context.png)
+
 ### 4.6.2. Software Architecture Container Diagrams.
+
+![Rider_Tecnico/Logistico_Mock_(3)](/assets/structurizr-TocaAqui_Containers.png)
+
 ### 4.6.3. Software Architecture Components Diagrams.
 ## 4.7. Software Object-Oriented Design.
 En esta sección, presentamos el diagrama de clases y la implementación de diversos patrones de diseño para optimizar la estructura y la eficiencia del sistema.
@@ -462,7 +468,6 @@ Relación entre clases
 Se modelan relaciones de herencia, asociación y uso entre entidades, promoviendo una arquitectura clara, modular y alineada con los principios de responsabilidad única y bajo acoplamiento.
 
 ![Class Diargam](../../assets/Class_Diagram.png)
-### 4.7.2. Class Dictionary.
 
 ### 4.7.2. Class Dictionary
 
