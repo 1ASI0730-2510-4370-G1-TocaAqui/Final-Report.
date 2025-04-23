@@ -265,7 +265,7 @@ Panel de control del productor
 
 ![Evaluacion_post_evento_Promotor_(1)](/assets/Evaluación%20%20post%20evento%20Promotor%20(1).png)
 
-Este es para el partista del evento 
+Este es para el artista del evento 
 
 ![Evaluacion_post_evento_Músico](/assets/Evaluación%20%20post%20evento%20Músico.png)
 
@@ -312,6 +312,7 @@ Contrato Digital
 ![Contrato_Digital_(2)](/assets/Contrato%20Digital%20(2).png)
 
 Rider Tecnico/Logistico
+
 ![Logistico](/assets/Logistico.png)
 
 ![Logistico_(1)](/assets/Logistico(1).png)
@@ -327,6 +328,100 @@ Los Wireflows se utilizan principalmente en el diseño UX o por sus siglas, expe
 ![Diagramaflujo](/assets/Diagramaflujo.png)
 
 ### 4.4.3. Web Applications Mock-ups.
+
+En esta sección se muestran los mock-ups realizados para nuestro Web Application.
+
+Login
+
+![Login_Mock](/assets/Login_Mock.png)
+
+Panel de control del artista
+
+![Artisit_Dashboard_Mock](/assets/Artisit%20Dashboard%20Mock.png)
+
+Perfil del artista
+
+![Artist_Profile_Mock](/assets/Artist%20Profile%20Mock.png)
+
+Perfil del productor
+
+![Productor_Profile_Mock](/assets/Productor%20Profile%20Mock.png)
+
+Agenda
+
+![Agenda_Mock](/assets/Agenda%20Mock.png)
+
+Postulaciones
+
+![Postulaciones_Mock](/assets/Postulaciones%20Mock.png)
+
+Panel de control del productor
+
+![Panel_de_control_del_productor_Mock](/assets/Productor%20Dashboard%20Mock.png)
+ 
+ Este es para el promotor del evento 
+
+![Promotor_del_evento_Mock](/assets/Evaluación%20%20post%20evento%20Promotor%20Mock.png)
+
+![Promotor_del_evento_Mock_(1)](/assets/Evaluación%20%20post%20evento%20Promotor%20Mock%20(1).png)
+
+Este es para el artista del evento 
+
+![Artista_del_evento_Mock](/assets/Evaluación%20%20post%20evento%20Musico%20Mock.png)
+
+![Artista_del_evento_Mock_(1)](/assets/Evaluación%20%20post%20evento%20Musico%20Mock%20(1).png)
+
+![Artista_del_evento_Mock_(2)](/assets/Evaluación%20%20post%20evento%20Músico%20Mock%20(2).png)
+
+![Artista_del_evento_Mock_(3)](/assets/Evaluación%20%20post%20evento%20Músico%20Mock%20(3).png)
+
+Promoción del evento y entradas
+
+![Promocion_del_evento_y_entradas_Mock](/assets/Promocion%20del%20evento%20y%20entradas%20Mock.png)
+
+![Promocion_del_evento_y_entradas_Mock_(1)](/assets/Promocion%20del%20evento%20y%20entradas%20Mock%20(1).png)
+
+![Promocion_del_evento_y_entradas_Mock_(2)](/assets/Promocion%20del%20evento%20y%20entradas%20Mock%20(2).png)
+
+![Promocion_del_evento_y_entradas_Mock_(3)](/assets/Promocion%20del%20evento%20y%20entradas%20mock%20(3).png)
+
+![Promocion_del_evento_y_entradas_Mock_(4)](/assets/Promocion%20del%20evento%20y%20entradas%20Mock(4).png)
+
+![Promocion_del_evento_y_entradas_Mock_(5)](/assets/Promocion%20del%20evento%20y%20entradas%20Mock%20(5).png)
+
+![Promocion_del_evento_y_entradas_Mock_(6)](/assets/Promocion%20del%20evento%20y%20entradas%20(6).png)
+
+Pagos promotor
+
+![Pagos_promotor_Mock](/assets/Pagos%20promotor%20Mock.png)
+
+![Pagos_promotor_Mock-(1)](/assets/Pagos%20promotor%20Mock%20(1).png)
+
+Pagos artista
+
+![Pagos_Artista_Mock](/assets/Pagos%20Artista%20Mock.png)
+
+![Pagos_Artista_Mock_(1)](/assets/Pagos%20Artista%20Mock%20(1).png)
+
+Contrato Digital
+
+![Contrato_Digital_Mock](/assets/Contrato%20Digital%20Mock.png)
+
+![Contrato_Digital_Mock_(1)](/assets/Contrato%20Digital%20Mock%20(1).png)
+
+![Contrato_Digital_Mock_(2)](/assets/Contrato%20Digital%20Mock%20(2).png)
+
+Rider Tecnico/Logistico
+
+![Rider_Tecnico/Logistico_Mock](/assets/Logistico%20Mock.png)
+
+![Rider_Tecnico/Logistico_Mock_(1)](/assets/Logistico%20Mock%20(1).png)
+
+![Rider_Tecnico/Logistico_Mock_(2)](/assets/Logistico%20Mock%20(2).png)
+
+![Rider_Tecnico/Logistico_Mock_(3)](/assets/Logistico%20Mock%20(3).png)
+
+
 ### 4.4.4. Web Applications User Flow Diagrams.
 ## 4.5. Web Applications Prototyping.
 ## 4.6. Domain-Driven Software Architecture.
