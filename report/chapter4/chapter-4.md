@@ -424,6 +424,15 @@ Rider Tecnico/Logistico
 
 ### 4.4.4. Web Applications User Flow Diagrams.
 ## 4.5. Web Applications Prototyping.
+
+![Web Applications Prototyping](/assets/Web-applications-prototyping.png)
+
+Video de la aplicación web TocaAquí en Figma: [Ver video demostrativo en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202417468_upc_edu_pe/EfEVVOhTbdhFt70uKTpg5REBRXExqknAJVQgV4f7Sy9j5A?e=fBB1Ub)
+
+
+Prototipo de la aplicación web TocaAquí en Figma: [Prototipo de la aplicación web TocaAquí en Figma](https://www.figma.com/design/AjVj0voSeYy8l8zlp8r2qw/WebApp-TocaAqu%C3%AD?node-id=6-5&t=S1oi45uo960HGuhM-1)
+
+
 ## 4.6. Domain-Driven Software Architecture.
 ## 4.6.1. Software Architecture Context Diagram.
 
@@ -478,111 +487,111 @@ Se modelan relaciones de herencia, asociación y uso entre entidades, promoviend
 A continuación se presenta la descripción de las clases principales del dominio, con sus atributos y métodos:
 
 #### Usuario
-| Atributos      | Tipo        |
-| -------------- | ----------- |
-| id             | UUID        |
-| nombre         | string      |
-| correo         | string      |
-| contrasena     | string      |
-| rol            | RolUsuario  |
+| Atributos  | Tipo       |
+| ---------- | ---------- |
+| id         | UUID       |
+| nombre     | string     |
+| correo     | string     |
+| contrasena | string     |
+| rol        | RolUsuario |
 
-| Métodos        | Descripción                                                                 |
-| -------------- | --------------------------------------------------------------------------- |
-| login()        | Verifica las credenciales de un usuario. Devuelve `boolean`.                |
-| registrar()    | Registra un nuevo usuario en el sistema.                                    |
+| Métodos     | Descripción                                                  |
+| ----------- | ------------------------------------------------------------ |
+| login()     | Verifica las credenciales de un usuario. Devuelve `boolean`. |
+| registrar() | Registra un nuevo usuario en el sistema.                     |
 
 #### Musico
-| Atributos         | Tipo         |
-| ----------------- | ------------ |
-| nombreArtistico   | string       |
-| estiloMusical     | string       |
-| biografia         | string       |
-| redesSociales     | string[]     |
+| Atributos       | Tipo     |
+| --------------- | -------- |
+| nombreArtistico | string   |
+| estiloMusical   | string   |
+| biografia       | string   |
+| redesSociales   | string[] |
 
-| Métodos           | Descripción                                                |
-| ----------------- | ---------------------------------------------------------- |
-| subirRider()      | Permite al músico subir su rider técnico.                 |
-| postularEvento()  | Envía una postulación a un evento disponible.             |
+| Métodos          | Descripción                                   |
+| ---------------- | --------------------------------------------- |
+| subirRider()     | Permite al músico subir su rider técnico.     |
+| postularEvento() | Envía una postulación a un evento disponible. |
 
 #### Promotor
-| Atributos             | Tipo         |
-| --------------------- | ------------ |
-| nombreLocal           | string       |
-| direccion             | string       |
-| aforo                 | int          |
-| tipoMusicaAceptada    | string[]     |
+| Atributos          | Tipo     |
+| ------------------ | -------- |
+| nombreLocal        | string   |
+| direccion          | string   |
+| aforo              | int      |
+| tipoMusicaAceptada | string[] |
 
-| Métodos               | Descripción                                                |
-| --------------------- | ---------------------------------------------------------- |
-| publicarEvento()      | Publica un nuevo evento en la plataforma.                 |
-| revisarPostulaciones()| Revisa las postulaciones recibidas para sus eventos.      |
+| Métodos                | Descripción                                          |
+| ---------------------- | ---------------------------------------------------- |
+| publicarEvento()       | Publica un nuevo evento en la plataforma.            |
+| revisarPostulaciones() | Revisa las postulaciones recibidas para sus eventos. |
 
 #### Evento
-| Atributos       | Tipo           |
-| --------------- | -------------- |
-| id              | UUID           |
-| titulo          | string         |
-| descripcion     | string         |
-| fecha           | DateTime       |
-| estado          | EstadoEvento   |
-| genero          | string         |
-| pagoOfrecido    | float          |
+| Atributos    | Tipo         |
+| ------------ | ------------ |
+| id           | UUID         |
+| titulo       | string       |
+| descripcion  | string       |
+| fecha        | DateTime     |
+| estado       | EstadoEvento |
+| genero       | string       |
+| pagoOfrecido | float        |
 
-| Métodos             | Descripción                                                       |
-| ------------------- | ----------------------------------------------------------------- |
-| recibirPostulacion()| Registra la postulación de un músico al evento.                  |
-| confirmarMusico()   | Confirma la participación de un músico en el evento.             |
+| Métodos              | Descripción                                          |
+| -------------------- | ---------------------------------------------------- |
+| recibirPostulacion() | Registra la postulación de un músico al evento.      |
+| confirmarMusico()    | Confirma la participación de un músico en el evento. |
 
 #### Contrato
-| Atributos      | Tipo            |
-| -------------- | --------------- |
-| id             | UUID            |
-| evento         | Evento          |
-| musico         | Musico          |
-| promotor       | Promotor        |
-| estado         | EstadoContrato  |
+| Atributos | Tipo           |
+| --------- | -------------- |
+| id        | UUID           |
+| evento    | Evento         |
+| musico    | Musico         |
+| promotor  | Promotor       |
+| estado    | EstadoContrato |
 
-| Métodos        | Descripción                                                         |
-| -------------- | ------------------------------------------------------------------- |
-| firmar()       | Cambia el estado del contrato a “FIRMADO”.                          |
-| descargarPDF() | Genera y descarga la versión PDF del contrato.                      |
+| Métodos        | Descripción                                    |
+| -------------- | ---------------------------------------------- |
+| firmar()       | Cambia el estado del contrato a “FIRMADO”.     |
+| descargarPDF() | Genera y descarga la versión PDF del contrato. |
 
 #### Pago
-| Atributos       | Tipo         |
-| --------------- | ------------ |
-| id              | UUID         |
-| contrato        | Contrato     |
-| monto           | float        |
-| estado          | EstadoPago   |
+| Atributos | Tipo       |
+| --------- | ---------- |
+| id        | UUID       |
+| contrato  | Contrato   |
+| monto     | float      |
+| estado    | EstadoPago |
 
-| Métodos         | Descripción                                                      |
-| --------------- | ---------------------------------------------------------------- |
-| liberarPago()   | Cambia el estado del pago a “LIBERADO” y notifica al músico.     |
+| Métodos       | Descripción                                                  |
+| ------------- | ------------------------------------------------------------ |
+| liberarPago() | Cambia el estado del pago a “LIBERADO” y notifica al músico. |
 
 #### RiderTecnico
-| Atributos           | Tipo    |
-| ------------------- | ------- |
-| id                  | UUID    |
-| requerimientos      | string  |
-| archivoAdjunto      | string  |
-| comentariosPromotor | string  |
+| Atributos           | Tipo   |
+| ------------------- | ------ |
+| id                  | UUID   |
+| requerimientos      | string |
+| archivoAdjunto      | string |
+| comentariosPromotor | string |
 
-| Métodos             | Descripción                                             |
-| ------------------- | ------------------------------------------------------- |
-| (ninguno)           | Se maneja como objeto de datos dentro de `Musico`.     |
+| Métodos   | Descripción                                        |
+| --------- | -------------------------------------------------- |
+| (ninguno) | Se maneja como objeto de datos dentro de `Musico`. |
 
 #### Evaluacion
-| Atributos      | Tipo    |
-| -------------- | ------- |
-| id             | UUID    |
-| evaluador      | Usuario |
-| evaluado       | Usuario |
-| estrellas      | int     |
-| comentario     | string  |
+| Atributos  | Tipo    |
+| ---------- | ------- |
+| id         | UUID    |
+| evaluador  | Usuario |
+| evaluado   | Usuario |
+| estrellas  | int     |
+| comentario | string  |
 
-| Métodos        | Descripción                                                    |
-| -------------- | -------------------------------------------------------------- |
-| (ninguno)      | Se crea y almacena desde la lógica de aplicación al finalizar un evento. |
+| Métodos   | Descripción                                                              |
+| --------- | ------------------------------------------------------------------------ |
+| (ninguno) | Se crea y almacena desde la lógica de aplicación al finalizar un evento. |
 
 ## 4.8.1 Database Diagram
 
