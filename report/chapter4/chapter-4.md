@@ -584,6 +584,12 @@ A continuación se presenta la descripción de las clases principales del domini
 | -------------- | -------------------------------------------------------------- |
 | (ninguno)      | Se crea y almacena desde la lógica de aplicación al finalizar un evento. |
 
-## 4.8. Database Design.
+## 4.8.1 Database Diagram
+
+El siguiente diagrama entidad‑relación (ER) muestra las tablas principales con claves primarias (PK), claves foráneas (FK) y relaciones ajustadas:
+
 ### 4.8.1. Database Diagram
+
+
+![Data Base Diargam](../../assets/DB_Diagram.png)
 
