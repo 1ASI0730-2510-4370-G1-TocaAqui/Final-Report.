@@ -4,6 +4,127 @@
 ### 5.1.1. Software Development Environment Configuration
 ### 5.1.2. Source Code Management
 ### 5.1.3. Source Code Style Guide & Conventions
+
+As a general rule, all code must be written in English and follow the conventions defined in the following reference guides:
+
+* **HTML Style Guide and Coding Conventions**
+* **Google HTML/CSS Style Guide**
+* **Vue Style Guide**
+* **Google JavaScript Style Guide**
+* **MDN JavaScript Guidelines**
+* **W3C JavaScript Style Guide**
+* **Gherkin Conventions for Readable Specifications**
+* **C# Coding Conventions**
+* **Microsoft ASP.NET Core Coding Guidelines**
+
+## HTML
+
+* **Element names in lowercase**
+```html
+<body> <p>This is a paragraph</p> </body>
+```
+
+* **Close all elements**
+```html
+<p>First paragraph</p> <p>Second paragraph</p>
+```
+
+* **Attribute names in lowercase**
+```html
+<img src="logo.png" alt="Logo">
+```
+
+* **Always use** `alt`, `width` and `height` in `<img>`
+```html
+<img src="avatar.jpg" alt="User avatar" width="128" height="128">
+```
+
+* **No spaces around** `=`
+```html
+<link rel="stylesheet" href="styles.css">
+```
+
+## CSS
+
+* **Meaningful IDs and classes**, in kebab-case
+```css
+#gallery { … } .video-player { … }
+```
+
+* **Shorthand properties**
+```css
+margin: 0; padding: 0 1em; font: 100%/1.6 serif;
+```
+
+* **Zero value without unit**
+```css
+margin: 0; padding: 0;
+```
+
+* **Alphabetical order of declarations**
+```css
+background: #fff; border-radius: 4px; color: #000;
+```
+
+* **Single quotes for attribute selectors**
+```css
+font-family: 'Open Sans', sans-serif;
+```
+
+## JavaScript
+
+* **One statement per line**, braces on the same line as declaration
+```js
+function calculateTotal(a, b) { return a + b; }
+```
+
+* **lowerCamelCase** for variables and functions
+```js
+let eventCount = 0; function registerUser() { … }
+```
+
+* **Use** `const` and `let`, avoid `var`
+```js
+const maxEvents = 10; let currentUser = null;
+```
+
+* **Spaces around operators and after commas**
+```js
+let sum = x + y; const genres = ['rock', 'jazz', 'pop'];
+```
+
+## C#
+
+* **PascalCase** for classes, methods and properties
+```csharp
+public class EventManager { public void ProcessBooking() { … } }
+```
+
+* **camelCase** for local variables and parameters
+```csharp
+int eventId; string venueName;
+```
+
+* **Reasonable line length** (max. ~120 characters)
+* **Clear and concise comments**
+* **Single responsibility principle**: each class or method with a single function
+
+## Gherkin
+
+* **Descriptive scenario titles**
+```gherkin
+Feature: User login Scenario: Successful authentication Given a registered user When they enter valid credentials Then they see the dashboard
+```
+
+* **Always use Given-When-Then**, indent `And` with two additional spaces
+* **Scenario Outline** for parameterized examples
+* **Business-readable language**, without implementation details
+* **Separate scenarios with comment**
+```gherkin
+# -------------------------- Scenario: Password reset …
+```
+
+
 ### 5.1.4. Software Deployment Configuration
 
 Para desplegar la **Landing Page** del proyecto **TocaAquí** usando **GitHub Pages**, se siguieron los siguientes pasos:
