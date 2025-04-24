@@ -462,11 +462,11 @@ Revisión técnica y logistica
 
 ![Revicion_del_rider](/assets/Revisión_tecnica.jpeg)
 
-Parte completa del Promotor
+Parte completa del Artista
 
 ![Completo_Artista](/assets/Proceso%20completo%20Artista.png)
 
-Parte completa del Artista
+Parte completa del Promotor
 
 ![Completo_Promotor](/assets/Parte%20completa%20promotor.png)
 
