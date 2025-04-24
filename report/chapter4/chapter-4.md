@@ -423,6 +423,53 @@ Rider Tecnico/Logistico
 
 
 ### 4.4.4. Web Applications User Flow Diagrams.
+
+Logeo del promotor a la pagina
+
+![Logeo_Promotor](/assets/Logeo_Promotor.jpeg)
+
+Logeo del artista a la pagina
+
+![Logeo_Artista](/assets/Logeo_Artista.jpeg)
+
+Evaluacion del promotor
+
+![Evaluacion_promotor](/assets/Evaluación%20del%20promotor.jpeg)
+
+Evaluacion del artista
+
+![Evaluacion_artista](/assets/Evaluacion%20del%20artista.jpeg)
+
+Creacion de las entradas 
+ 
+![Creacion_de_entradas](/assets/Creacion%20de%20entradas.jpeg)
+
+![Creacion_de_entradas_(1)](/assets/Creacion%20de%20entradas%20(1).jpeg)
+
+Visualización del pago del artista parte del promotor
+
+![Visualizacion_del_pago_del_artista_parate_del_promotor](/assets/Visualización%20del%20pago%20del%20artista.jpeg)
+
+Realización de pagos del artista
+
+![Pago_artista](/assets/Pago_artista.jpeg)
+
+Realización del contrato
+
+![Contrato_Digital](/assets/Contrato_digital.jpeg)
+
+Revisión técnica y logistica
+
+![Revicion_del_rider](/assets/Revisión_tecnica.jpeg)
+
+Parte completa del Promotor
+
+![Completo_Artista](/assets/Proceso%20completo%20Artista.png)
+
+Parte completa del Artista
+
+![Completo_Promotor](/assets/Parte%20completa%20promotor.png)
+
 ## 4.5. Web Applications Prototyping.
 
 ![Web Applications Prototyping](/assets/Web-applications-prototyping.png)
