@@ -73,6 +73,7 @@ Se siguió el estándar [Conventional Commits](https://www.conventionalcommits.o
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
+<<<<<<< HEAD
 #### HTML
 
 - Todas las etiquetas deben cerrarse correctamente
@@ -109,7 +110,6 @@ Referencia: [https://developer.mozilla.org/es/docs/Web/JavaScript](https://devel
 - Documentación interna con props, eventos y métodos
 
 Referencia: [https://vuejs.org/guide/introduction](https://vuejs.org/guide/introduction)
-
 
 ### 5.1.4. Software Deployment Configuration
 
