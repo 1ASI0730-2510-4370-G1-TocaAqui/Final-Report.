@@ -226,15 +226,274 @@ Procederemos a mostrar el Landing Page Mock-up de la aplicación:
 
 ![Landing_page](/assets/landing.png)
 ## 4.4. Web Applications UX/UI Design.
+
 ### 4.4.1. Web Applications Wireframes.
+
+En esta sección se muestran los wireframes realizados para nuestro Web Application.
+
+Login
+
+![Login](/assets/Login.png)
+
+Panel de control del artista
+
+![Artisit_Dashboard](/assets/Artisit%20Dashboard.png)
+
+Perfil del artista
+
+![Artist_Profile](/assets/Artist%20Profile.png)
+
+Perfil del productor
+
+![Productor_Profile](/assets/Productor%20Profile.png)
+
+Agenda
+
+![Agenda](/assets/Agenda.png)
+
+Postulaciones
+
+![Postulaciones](/assets/Postulaciones.png)
+
+Panel de control del productor
+
+![Productor_Dashboard](/assets/Productor%20Dashboar.png)
+ 
+ Este es para el promotor del evento 
+
+![Evaluacion_post_evento_Promotor](/assets/Evaluación%20%20post%20evento%20Promotor.png)
+
+![Evaluacion_post_evento_Promotor_(1)](/assets/Evaluación%20%20post%20evento%20Promotor%20(1).png)
+
+Este es para el artista del evento 
+
+![Evaluacion_post_evento_Músico](/assets/Evaluación%20%20post%20evento%20Músico.png)
+
+![Evalucion_post_evento_Músico](/assets/Evaluación%20%20post%20evento%20Músico(1).png)
+
+![Evaluacion_post_evento_Músico](/assets/Evaluación%20%20post%20evento%20Músico(2).png)
+
+![Evaluacion_post_evento_Músico](/assets/Evaluación%20%20post%20evento%20Músico(3).png)
+
+Promoción del evento y entradas
+
+![Promocion_del_evento_y_entradas](/assets/Promocion%20del%20evento%20y%20entradas.png)
+
+![Promocion_del_evento_y_entradas_(1)](/assets/Promocion%20del%20evento%20y%20entradas%20(1).png)
+
+![Promocion_del_evento_y_entradas_(2)](/assets/Promocion%20del%20evento%20y%20entradas%20(2).png)
+
+![Promocion_del_evento_y_entradas_(3)](/assets/Promocion%20del%20evento%20y%20entradas%20(3).png)
+
+![Promocion_del_evento_y_entradas_(4)](/assets/Promocion%20del%20evento%20y%20entradas%20(4).png)
+
+![Promocion_del_evento_y_entradas_(5)](/assets/Promocion%20del%20evento%20y%20entradas%20(5).png)
+
+![Promocion_del_evento_y_entradas_(6)](/assets/Promocion%20del%20evento%20y%20entradas%20(6).png)
+
+Pagos promotor
+
+![Pagos_Promotor](/assets/Pagos%20promotor.png)
+
+![Pagos_Promotor_(1)](/assets/Pagos%20promotor%20(1).png)
+
+Pagos artista
+
+![Pago_artista](/assets/Pagos%20artista.png)
+
+![Pago_artista_(1)](/assets/Pagos%20artista%20(1).png)
+
+Contrato Digital
+
+![Contrato_Digital](/assets/Contrato%20Digital.png)
+
+![Contrato_Digital_(1)](/assets/Contrato%20Digital%20(1).png)
+
+![Contrato_Digital_(2)](/assets/Contrato%20Digital%20(2).png)
+
+Rider Tecnico/Logistico
+
+![Logistico](/assets/Logistico.png)
+
+![Logistico_(1)](/assets/Logistico(1).png)
+
+![Logistico_(2)](/assets/Logistico(2).png)
+
+![Logistica_(3)](/assets/Logistico(3).png)
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
+
+Los Wireflows se utilizan principalmente en el diseño UX o por sus siglas, experiencia de usuario y especialmente para aplicaciones que involucran flujos de trabajo e interacciones complejas.
+
+![Diagramaflujo](/assets/Diagramaflujo.png)
+
 ### 4.4.3. Web Applications Mock-ups.
+
+En esta sección se muestran los mock-ups realizados para nuestro Web Application.
+
+Login
+
+![Login_Mock](/assets/Login_Mock.png)
+
+Panel de control del artista
+
+![Artisit_Dashboard_Mock](/assets/Artisit%20Dashboard%20Mock.png)
+
+Perfil del artista
+
+![Artist_Profile_Mock](/assets/Artist%20Profile%20Mock.png)
+
+Perfil del productor
+
+![Productor_Profile_Mock](/assets/Productor%20Profile%20Mock.png)
+
+Agenda
+
+![Agenda_Mock](/assets/Agenda%20Mock.png)
+
+Postulaciones
+
+![Postulaciones_Mock](/assets/Postulaciones%20Mock.png)
+
+Panel de control del productor
+
+![Panel_de_control_del_productor_Mock](/assets/Productor%20Dashboard%20Mock.png)
+ 
+ Este es para el promotor del evento 
+
+![Promotor_del_evento_Mock](/assets/Evaluación%20%20post%20evento%20Promotor%20Mock.png)
+
+![Promotor_del_evento_Mock_(1)](/assets/Evaluación%20%20post%20evento%20Promotor%20Mock%20(1).png)
+
+Este es para el artista del evento 
+
+![Artista_del_evento_Mock](/assets/Evaluación%20%20post%20evento%20Musico%20Mock.png)
+
+![Artista_del_evento_Mock_(1)](/assets/Evaluación%20%20post%20evento%20Musico%20Mock%20(1).png)
+
+![Artista_del_evento_Mock_(2)](/assets/Evaluación%20%20post%20evento%20Músico%20Mock%20(2).png)
+
+![Artista_del_evento_Mock_(3)](/assets/Evaluación%20%20post%20evento%20Músico%20Mock%20(3).png)
+
+Promoción del evento y entradas
+
+![Promocion_del_evento_y_entradas_Mock](/assets/Promocion%20del%20evento%20y%20entradas%20Mock.png)
+
+![Promocion_del_evento_y_entradas_Mock_(1)](/assets/Promocion%20del%20evento%20y%20entradas%20Mock%20(1).png)
+
+![Promocion_del_evento_y_entradas_Mock_(2)](/assets/Promocion%20del%20evento%20y%20entradas%20Mock%20(2).png)
+
+![Promocion_del_evento_y_entradas_Mock_(3)](/assets/Promocion%20del%20evento%20y%20entradas%20mock%20(3).png)
+
+![Promocion_del_evento_y_entradas_Mock_(4)](/assets/Promocion%20del%20evento%20y%20entradas%20Mock(4).png)
+
+![Promocion_del_evento_y_entradas_Mock_(5)](/assets/Promocion%20del%20evento%20y%20entradas%20Mock%20(5).png)
+
+![Promocion_del_evento_y_entradas_Mock_(6)](/assets/Promocion%20del%20evento%20y%20entradas%20(6).png)
+
+Pagos promotor
+
+![Pagos_promotor_Mock](/assets/Pagos%20promotor%20Mock.png)
+
+![Pagos_promotor_Mock-(1)](/assets/Pagos%20promotor%20Mock%20(1).png)
+
+Pagos artista
+
+![Pagos_Artista_Mock](/assets/Pagos%20Artista%20Mock.png)
+
+![Pagos_Artista_Mock_(1)](/assets/Pagos%20Artista%20Mock%20(1).png)
+
+Contrato Digital
+
+![Contrato_Digital_Mock](/assets/Contrato%20Digital%20Mock.png)
+
+![Contrato_Digital_Mock_(1)](/assets/Contrato%20Digital%20Mock%20(1).png)
+
+![Contrato_Digital_Mock_(2)](/assets/Contrato%20Digital%20Mock%20(2).png)
+
+Rider Tecnico/Logistico
+
+![Rider_Tecnico/Logistico_Mock](/assets/Logistico%20Mock.png)
+
+![Rider_Tecnico/Logistico_Mock_(1)](/assets/Logistico%20Mock%20(1).png)
+
+![Rider_Tecnico/Logistico_Mock_(2)](/assets/Logistico%20Mock%20(2).png)
+
+![Rider_Tecnico/Logistico_Mock_(3)](/assets/Logistico%20Mock%20(3).png)
+
+
 ### 4.4.4. Web Applications User Flow Diagrams.
+
+Logeo del promotor a la pagina
+
+![Logeo_Promotor](/assets/Logeo_Promotor.jpeg)
+
+Logeo del artista a la pagina
+
+![Logeo_Artista](/assets/Logeo_Artista.jpeg)
+
+Evaluacion del promotor
+
+![Evaluacion_promotor](/assets/Evaluación%20del%20promotor.jpeg)
+
+Evaluacion del artista
+
+![Evaluacion_artista](/assets/Evaluacion%20del%20artista.jpeg)
+
+Creacion de las entradas 
+ 
+![Creacion_de_entradas](/assets/Creacion%20de%20entradas.jpeg)
+
+![Creacion_de_entradas_(1)](/assets/Creacion%20de%20entradas%20(1).jpeg)
+
+Visualización del pago del artista parte del promotor
+
+![Visualizacion_del_pago_del_artista_parate_del_promotor](/assets/Visualización%20del%20pago%20del%20artista.jpeg)
+
+Realización de pagos del artista
+
+![Pago_artista](/assets/Pago_artista.jpeg)
+
+Realización del contrato
+
+![Contrato_Digital](/assets/Contrato_digital.jpeg)
+
+Revisión técnica y logistica
+
+![Revicion_del_rider](/assets/Revisión_tecnica.jpeg)
+
+Parte completa del Artista
+
+![Completo_Artista](/assets/Proceso%20completo%20Artista.png)
+
+Parte completa del Promotor
+
+![Completo_Promotor](/assets/Parte%20completa%20promotor.png)
+
 ## 4.5. Web Applications Prototyping.
+
+![Web Applications Prototyping](/assets/Web-applications-prototyping.png)
+
+Video de la aplicación web TocaAquí en Figma: [Ver video demostrativo en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202417468_upc_edu_pe/EfEVVOhTbdhFt70uKTpg5REBRXExqknAJVQgV4f7Sy9j5A?e=fBB1Ub)
+
+
+Prototipo de la aplicación web TocaAquí en Figma: [Prototipo de la aplicación web TocaAquí en Figma](https://www.figma.com/design/AjVj0voSeYy8l8zlp8r2qw/WebApp-TocaAqu%C3%AD?node-id=6-5&t=S1oi45uo960HGuhM-1)
+
+
 ## 4.6. Domain-Driven Software Architecture.
 ## 4.6.1. Software Architecture Context Diagram.
+
+![Context_diagram](/assets/structurizr-Context.png)
+
 ### 4.6.2. Software Architecture Container Diagrams.
+
+![Container_diagram](/assets/structurizr-TocaAqui_Containers.png)
+
 ### 4.6.3. Software Architecture Components Diagrams.
+
+![component_diagram](/assets/component-diagram.png)
+
+
 ## 4.7. Software Object-Oriented Design.
 En esta sección, presentamos el diagrama de clases y la implementación de diversos patrones de diseño para optimizar la estructura y la eficiencia del sistema.
 ### 4.7.1. Class Diagrams.
@@ -269,119 +528,124 @@ Relación entre clases
 Se modelan relaciones de herencia, asociación y uso entre entidades, promoviendo una arquitectura clara, modular y alineada con los principios de responsabilidad única y bajo acoplamiento.
 
 ![Class Diargam](../../assets/Class_Diagram.png)
-### 4.7.2. Class Dictionary.
 
 ### 4.7.2. Class Dictionary
 
 A continuación se presenta la descripción de las clases principales del dominio, con sus atributos y métodos:
 
 #### Usuario
-| Atributos      | Tipo        |
-| -------------- | ----------- |
-| id             | UUID        |
-| nombre         | string      |
-| correo         | string      |
-| contrasena     | string      |
-| rol            | RolUsuario  |
+| Atributos  | Tipo       |
+| ---------- | ---------- |
+| id         | UUID       |
+| nombre     | string     |
+| correo     | string     |
+| contrasena | string     |
+| rol        | RolUsuario |
 
-| Métodos        | Descripción                                                                 |
-| -------------- | --------------------------------------------------------------------------- |
-| login()        | Verifica las credenciales de un usuario. Devuelve `boolean`.                |
-| registrar()    | Registra un nuevo usuario en el sistema.                                    |
+| Métodos     | Descripción                                                  |
+| ----------- | ------------------------------------------------------------ |
+| login()     | Verifica las credenciales de un usuario. Devuelve `boolean`. |
+| registrar() | Registra un nuevo usuario en el sistema.                     |
 
 #### Musico
-| Atributos         | Tipo         |
-| ----------------- | ------------ |
-| nombreArtistico   | string       |
-| estiloMusical     | string       |
-| biografia         | string       |
-| redesSociales     | string[]     |
+| Atributos       | Tipo     |
+| --------------- | -------- |
+| nombreArtistico | string   |
+| estiloMusical   | string   |
+| biografia       | string   |
+| redesSociales   | string[] |
 
-| Métodos           | Descripción                                                |
-| ----------------- | ---------------------------------------------------------- |
-| subirRider()      | Permite al músico subir su rider técnico.                 |
-| postularEvento()  | Envía una postulación a un evento disponible.             |
+| Métodos          | Descripción                                   |
+| ---------------- | --------------------------------------------- |
+| subirRider()     | Permite al músico subir su rider técnico.     |
+| postularEvento() | Envía una postulación a un evento disponible. |
 
 #### Promotor
-| Atributos             | Tipo         |
-| --------------------- | ------------ |
-| nombreLocal           | string       |
-| direccion             | string       |
-| aforo                 | int          |
-| tipoMusicaAceptada    | string[]     |
+| Atributos          | Tipo     |
+| ------------------ | -------- |
+| nombreLocal        | string   |
+| direccion          | string   |
+| aforo              | int      |
+| tipoMusicaAceptada | string[] |
 
-| Métodos               | Descripción                                                |
-| --------------------- | ---------------------------------------------------------- |
-| publicarEvento()      | Publica un nuevo evento en la plataforma.                 |
-| revisarPostulaciones()| Revisa las postulaciones recibidas para sus eventos.      |
+| Métodos                | Descripción                                          |
+| ---------------------- | ---------------------------------------------------- |
+| publicarEvento()       | Publica un nuevo evento en la plataforma.            |
+| revisarPostulaciones() | Revisa las postulaciones recibidas para sus eventos. |
 
 #### Evento
-| Atributos       | Tipo           |
-| --------------- | -------------- |
-| id              | UUID           |
-| titulo          | string         |
-| descripcion     | string         |
-| fecha           | DateTime       |
-| estado          | EstadoEvento   |
-| genero          | string         |
-| pagoOfrecido    | float          |
+| Atributos    | Tipo         |
+| ------------ | ------------ |
+| id           | UUID         |
+| titulo       | string       |
+| descripcion  | string       |
+| fecha        | DateTime     |
+| estado       | EstadoEvento |
+| genero       | string       |
+| pagoOfrecido | float        |
 
-| Métodos             | Descripción                                                       |
-| ------------------- | ----------------------------------------------------------------- |
-| recibirPostulacion()| Registra la postulación de un músico al evento.                  |
-| confirmarMusico()   | Confirma la participación de un músico en el evento.             |
+| Métodos              | Descripción                                          |
+| -------------------- | ---------------------------------------------------- |
+| recibirPostulacion() | Registra la postulación de un músico al evento.      |
+| confirmarMusico()    | Confirma la participación de un músico en el evento. |
 
 #### Contrato
-| Atributos      | Tipo            |
-| -------------- | --------------- |
-| id             | UUID            |
-| evento         | Evento          |
-| musico         | Musico          |
-| promotor       | Promotor        |
-| estado         | EstadoContrato  |
+| Atributos | Tipo           |
+| --------- | -------------- |
+| id        | UUID           |
+| evento    | Evento         |
+| musico    | Musico         |
+| promotor  | Promotor       |
+| estado    | EstadoContrato |
 
-| Métodos        | Descripción                                                         |
-| -------------- | ------------------------------------------------------------------- |
-| firmar()       | Cambia el estado del contrato a “FIRMADO”.                          |
-| descargarPDF() | Genera y descarga la versión PDF del contrato.                      |
+| Métodos        | Descripción                                    |
+| -------------- | ---------------------------------------------- |
+| firmar()       | Cambia el estado del contrato a “FIRMADO”.     |
+| descargarPDF() | Genera y descarga la versión PDF del contrato. |
 
 #### Pago
-| Atributos       | Tipo         |
-| --------------- | ------------ |
-| id              | UUID         |
-| contrato        | Contrato     |
-| monto           | float        |
-| estado          | EstadoPago   |
+| Atributos | Tipo       |
+| --------- | ---------- |
+| id        | UUID       |
+| contrato  | Contrato   |
+| monto     | float      |
+| estado    | EstadoPago |
 
-| Métodos         | Descripción                                                      |
-| --------------- | ---------------------------------------------------------------- |
-| liberarPago()   | Cambia el estado del pago a “LIBERADO” y notifica al músico.     |
+| Métodos       | Descripción                                                  |
+| ------------- | ------------------------------------------------------------ |
+| liberarPago() | Cambia el estado del pago a “LIBERADO” y notifica al músico. |
 
 #### RiderTecnico
-| Atributos           | Tipo    |
-| ------------------- | ------- |
-| id                  | UUID    |
-| requerimientos      | string  |
-| archivoAdjunto      | string  |
-| comentariosPromotor | string  |
+| Atributos           | Tipo   |
+| ------------------- | ------ |
+| id                  | UUID   |
+| requerimientos      | string |
+| archivoAdjunto      | string |
+| comentariosPromotor | string |
 
-| Métodos             | Descripción                                             |
-| ------------------- | ------------------------------------------------------- |
-| (ninguno)           | Se maneja como objeto de datos dentro de `Musico`.     |
+| Métodos   | Descripción                                        |
+| --------- | -------------------------------------------------- |
+| (ninguno) | Se maneja como objeto de datos dentro de `Musico`. |
 
 #### Evaluacion
-| Atributos      | Tipo    |
-| -------------- | ------- |
-| id             | UUID    |
-| evaluador      | Usuario |
-| evaluado       | Usuario |
-| estrellas      | int     |
-| comentario     | string  |
+| Atributos  | Tipo    |
+| ---------- | ------- |
+| id         | UUID    |
+| evaluador  | Usuario |
+| evaluado   | Usuario |
+| estrellas  | int     |
+| comentario | string  |
 
-| Métodos        | Descripción                                                    |
-| -------------- | -------------------------------------------------------------- |
-| (ninguno)      | Se crea y almacena desde la lógica de aplicación al finalizar un evento. |
+| Métodos   | Descripción                                                              |
+| --------- | ------------------------------------------------------------------------ |
+| (ninguno) | Se crea y almacena desde la lógica de aplicación al finalizar un evento. |
 
-## 4.8. Database Design.
+## 4.8.1 Database Diagram
+
+El siguiente diagrama entidad‑relación (ER) muestra las tablas principales con claves primarias (PK), claves foráneas (FK) y relaciones ajustadas:
+
 ### 4.8.1. Database Diagram
+
+
+![Data Base Diargam](../../assets/DB_Diagram.png)
 

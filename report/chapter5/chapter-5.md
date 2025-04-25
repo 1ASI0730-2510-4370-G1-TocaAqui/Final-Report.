@@ -51,7 +51,7 @@ Una vez configurado, GitHub genera automáticamente la URL pública del sitio, q
 | Team Member              | GitHub Username     | Landing Page | Diseño UI/UX | HTML/CSS | JavaScript | Documentación |
 |--------------------------|---------------------|--------------|---------------|----------|-------------|----------------|
 | Nelson Pereira           | fabrizzioper        | C            | C             | C        | L           | C              |
-| Oscar Antayhua           | OscarAntayhuaCastillo | L            | C             | C        | C           | C              |
+| Oscar Antayhua           | OscarAntayhuaCastillo | L            | C             | C        | C           | L              |
 | Juan Llamccaya           | JuanPaulLla        | C            | C             | L        | C           | C              |
 | Diego Cabrera            | omele7             | C            | C             | C        | L           | C              |
 | Eddo Su Caletti          | Asalreon520        | C            | L             | C        | C           | C              |
