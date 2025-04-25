@@ -73,7 +73,7 @@ Se siguió el estándar [Conventional Commits](https://www.conventionalcommits.o
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
-<<<<<<< HEAD
+
 #### HTML
 
 - Todas las etiquetas deben cerrarse correctamente
