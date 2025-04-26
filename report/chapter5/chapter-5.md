@@ -213,7 +213,40 @@ Una vez configurado, GitHub genera automáticamente la URL pública del sitio, q
 | Landing-Page                                 | main   | 8e06aeb   | Create Readme.md                                        | README base creado                                                            | Apr 07, 2025   |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
+Para este primer Sprint, hemos desarrollado la Landing Page del proyecto "TocaAquí". A través de esta landing, los usuarios pueden visualizar de forma clara la propuesta de valor de nuestra plataforma, destinada a conectar músicos emergentes con locales de eventos, facilitando la contratación, coordinación y pagos seguros.
 
+A continuación, se presentan las User Stories asociadas que se ejecutaron y evidencian el trabajo realizado:
+
+| **ID** | **User Story** | **Evidencia en Landing Page** |
+|:------:|:--------------:|:-----------------------------:|
+| US01 | Acceso a la Landing Page desde distintos dispositivos | Visualización responsive en computadoras y móviles |
+| US02 | Visualización de la información del propósito | Sección "Sobre Nosotros" describiendo la solución |
+| US03 | Visualización de imágenes y gráficos relevantes | Imágenes en las secciones principales (home, about) |
+| US04 | Tipografía cómoda y estéticamente agradable | Fuente limpia y moderna compatible con el estilo |
+| US05 | Opción de navegación entre secciones | Menú de navegación y botones de acción funcionales |
+| US06 | Formulario de contacto funcional | Sección de contacto con campos de entrada validados |
+
+**Sección Sobre Nosotros**  
+Muestra el propósito de TocaAquí, permitiendo al visitante entender rápidamente el objetivo de la plataforma.
+
+![Sobre-nosotros](/assets/sobre-nosotros.png)
+
+**Nuestro Equipo**  
+Se exhiben los perfiles de los desarrolladores de la startup, reforzando la transparencia y profesionalismo del proyecto.
+
+![Equipo](/assets/equiopo.png)
+
+
+**Planes Disponibles**  
+Se muestra una estructura clara de planes para artistas y locales, acompañada de botones de acción intuitivos.
+
+![Planes](/assets/planes.png)
+
+
+**Formulario de Contacto**  
+Formularios para el envío de mensajes de contacto, cumpliendo criterios de accesibilidad y usabilidad.
+
+![Contacto](/assets/contacto.png)
 
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
