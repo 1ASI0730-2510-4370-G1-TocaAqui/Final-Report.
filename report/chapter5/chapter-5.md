@@ -138,7 +138,7 @@ Una vez configurado, GitHub genera automáticamente la URL pública del sitio, q
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
 
-| **Sprint #**                      | **Sprint 2**                                                                 |
+| **Sprint #**                      | **Sprint 1**                                                                 |
 |----------------------------------|------------------------------------------------------------------------------|
 | **Sprint Planning Background**   |                                                                              |
 | **Date**                         | 11/04/2025                                                                   |
@@ -164,6 +164,19 @@ Una vez configurado, GitHub genera automáticamente la URL pública del sitio, q
 | Eddo Su Caletti          | Asalreon520        | C            | L             | C        | C           | C              |
 
 #### 5.2.1.3. Sprint Backlog 1
+
+
+| **User Story Id** | **User Story Title** | **Work-Item/Task Id** | **Work-Item/Task Title** | **Description** | **Estimation** | **Assigned To** | **Status** |
+|:-----------------:|:--------------------:|:---------------------:|:-----------------------:|:---------------:|:--------------:|:--------------:|:----------:|
+| US01 | Acceso a la Landing Page desde distintos dispositivos | T01 | Diseño responsivo | Ajustar estilos CSS para adaptación en mobile, tablet y desktop | 5h | Juan Llamccaya | Done |
+| US02 | Visualización de información del propósito | T02 | Redacción de sección "Sobre Nosotros" | Crear texto descriptivo para explicar misión y beneficios de TocaAquí | 3h | Nelson Pereira | Done |
+| US03 | Visualización de imágenes y gráficos relevantes | T03 | Selección y carga de imágenes | Seleccionar imágenes ilustrativas y cargarlas en la landing page | 2h | Diego Cabrera | Done |
+| US04 | Tipografía cómoda y agradable estéticamente | T04 | Definición de tipografía y estilos | Elegir y aplicar fuentes estéticas y legibles para todo el sitio | 3h | Eddo Su Caletti | Done |
+| US05 | Opción de navegación entre secciones | T05 | Implementación de navegación | Programar menú de navegación funcional con anclas internas | 4h | Oscar Antayhua | Done |
+| US06 | Formulario de contacto funcional | T06 | Desarrollo de formulario de contacto | Crear y validar formulario de contacto en HTML, CSS y JavaScript | 5h | Diego Cabrera | Done |
+
+
+
 #### 5.2.1.4. Development Evidence for Sprint Review
 
 | Repository                                   | Branch | Commit Id | Commit Message                                           | Commit Message Body (resumen)                                                 | Committed on  |
