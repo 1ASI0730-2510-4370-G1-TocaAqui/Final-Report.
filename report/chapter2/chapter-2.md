@@ -179,10 +179,9 @@ Entrevistado #1
 |-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
 | **Nombre del entrevistado** | Luis Gamarra                                                                                                                          |
 | **Edad**                    | 28 años                                                                                                                               |
-| **Distrito**                | Barranco                                                                                                                             |
-| **Screenshot de la entrevista**|                                                                                  |
-| **Link de la entrevista**   |                                                                                                                         |
-| **Tiempo de inicio y duración** |                                                                                    |
+| **Screenshot de la entrevista**|        ![Indie on the Move](/assets/entrevista-1-L.png)                                                                         |
+| **Link de la entrevista**   |    https://goo.su/WnDcr7                                                                                                                     |
+| **Tiempo de inicio y duración** |                 00:00 - 03:07                                                                   |                                                                                    |
 | **Resumen**                 | Luis es administrador de “El Refugio”, un bar cultural en Barranco con capacidad para 120 personas. Tiene 35 años, trabaja con laptop y celular, y usa WhatsApp, Instagram y llamadas para coordinar con artistas. Nos cuenta que su rol incluye seleccionar bandas, coordinar sonido, cuadrar horarios y verificar pagos, pero que gran parte del proceso es desordenado. A veces los músicos no mandan información completa, llegan tarde o no cumplen lo prometido. Le frustra no tener un sistema centralizado que le permita ver el calendario, firmar contratos digitalmente, recibir notificaciones automáticas o revisar propuestas ya filtradas según estilo musical. Le interesa profesionalizar la gestión de eventos, automatizar los pagos y dejar de depender de chats dispersos. Dice que si existiera una plataforma que agrupe todo (contratación, pagos, agenda y promoción) le facilitaría muchísimo el trabajo y le permitiría manejar más eventos sin tanto estrés. |
 ----
 Entrevistado #2
