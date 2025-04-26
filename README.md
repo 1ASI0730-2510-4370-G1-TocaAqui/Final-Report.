@@ -40,6 +40,9 @@ Abril 2025
 
 URL Project Report (Github): https://github.com/1ASI0730-2510-4370-G1-TocaAqui
 
+TB1:
+![TB1](/assets/tb1.png)
+
 # Student Outcome
 
 **ABET – EAC - Student Outcome 5**
