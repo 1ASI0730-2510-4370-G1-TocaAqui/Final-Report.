@@ -191,9 +191,9 @@ Entrevistado #2
 | **Nombre del entrevistado** | Daniel Rivas                                                                                                                        |
 | **Edad**                    | 25  años                                                                                                                               |
 | **Distrito**                | Miraflores                                                                                                                             |
-| **Screenshot de la entrevista**|                                                                                  |
-| **Link de la entrevista**   |                                                                                                                         |
-| **Tiempo de inicio y duración** |                                                                                    |
+| **Screenshot de la entrevista**|    ![Entrevista Diego](/assets/entrevista-2.png)                          |                                                                              |
+| **Link de la entrevista**   |  https://goo.su/lsGF705                                                                                                                       |
+| **Tiempo de inicio y duración** |      00:00 - 03:48                                                                              |
 | **Resumen**                 | Daniel trabaja como encargado de booking en “Volta”, un club nocturno de música electrónica y fusión que organiza 2 o 3 eventos semanales. Tiene 42 años, lleva años en el rubro y nos comenta que si bien tiene experiencia, los procesos siguen siendo bastante manuales. Usa Excel para llevar la agenda de bandas, WhatsApp para coordinar y Word para generar contratos. Nos dijo que eso le funciona, pero ya se siente anticuado y lento. A veces ha tenido problemas con bandas que cambian condiciones después de confirmar o con pagos mal coordinados. Le interesaría una herramienta donde todo quede registrado y se puedan revisar las condiciones sin malentendidos. También quiere poder visualizar la programación del mes por tipo de música, y si fuera posible, contar con un historial de artistas que hayan trabajado con otros locales. Según él, profesionalizar esto es clave para no perder tiempo ni dinero en errores logísticos. |
 ----
 Entrevistado #3
@@ -203,9 +203,9 @@ Entrevistado #3
 | **Nombre del entrevistado** | Luis Guerra                                                                                                                          |
 | **Edad**                    | 29  años                                                                                                                               |
 | **Distrito**                | Barranco                                                                                                                             |
-| **Screenshot de la entrevista**|                                                                                  |
-| **Link de la entrevista**   |                                                                                                                         |
-| **Tiempo de inicio y duración** |                                                                                    |
+| **Screenshot de la entrevista**|    ![Entrevista Diego](/assets/entrevista-3.png)                                                                              |
+| **Link de la entrevista**   |       https://goo.su/pKOP                                                                                                                  |
+| **Tiempo de inicio y duración** |     00:00 - 04:16                                                                               |
 | **Resumen**                 | Luis es coordinador de eventos en “La Sazón del Ruido”, un café cultural con espacio para 80 personas. Tiene 29 años y usa principalmente su celular y laptop para programar la cartelera musical. Nos contó que trabaja con artistas locales y viajeros, y que recibe muchas propuestas por DM de Instagram, lo que le complica hacer seguimiento formal. Le frustra tener que redactar contratos desde cero cada vez y no tener una forma rápida de filtrar por estilo musical o fecha disponible. Mencionó que suele perder tiempo ajustando horarios o buscando reemplazos de último minuto. Para el, una plataforma donde pueda recibir postulaciones ordenadas, ver el historial de cada banda, programar eventos en una agenda visual y automatizar los pagos sería ideal. También le gustaría que los artistas pudieran subir directamente su rider técnico, así no tiene que estar pidiendo eso por correo o mensajes sueltos. |
 
  
