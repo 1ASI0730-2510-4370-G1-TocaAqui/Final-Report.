@@ -78,8 +78,7 @@ Para destacar frente a la competencia en el sector musical y de eventos, TocaAqu
 #### Preguntas Objetivas:
 
 **Características Demográficas:**
-
-- ¿Cuál es tu género?
+- ¿Cual es tu nombre?
 - ¿Cuántos años tienes?
 - ¿En qué ciudad y distrito está ubicado tu local?
 - ¿Cuál es el aforo y tipo de espacio que administras (bar, discoteca, centro cultural, etc.)?
@@ -112,7 +111,7 @@ Para destacar frente a la competencia en el sector musical y de eventos, TocaAqu
 - ¿Qué procesos te gustaría automatizar?
 
 **Preferencias y Canales Digitales:**
-- ¿¿Qué funcionalidades valorarías en una plataforma que centralice reservas, pagos y promoción de eventos?
+- ¿Qué funcionalidades valorarías en una plataforma que centralice reservas, pagos y promoción de eventos?
 -¿Cómo prefieres recibir notificaciones sobre postulaciones o confirmaciones de artistas?
 
 **Visión del Futuro:**
@@ -181,9 +180,9 @@ Entrevistado #1
 | **Nombre del entrevistado** | Luis Gamarra                                                                                                                          |
 | **Edad**                    | 28 años                                                                                                                               |
 | **Distrito**                | Barranco                                                                                                                             |
-| **Screenshot de la entrevista**|                                                                                  |
-| **Link de la entrevista**   |                                                                                                                         |
-| **Tiempo de inicio y duración** |                                                                                    |
+| **Screenshot de la entrevista**|        ![Indie on the Move](/assets/entrevista-1-L.png)                                                                         |
+| **Link de la entrevista**   |    https://goo.su/WnDcr7                                                                                                                     |
+| **Tiempo de inicio y duración** |                 00:00 - 03:07                                                                   |
 | **Resumen**                 | Luis es administrador de “El Refugio”, un bar cultural en Barranco con capacidad para 120 personas. Tiene 35 años, trabaja con laptop y celular, y usa WhatsApp, Instagram y llamadas para coordinar con artistas. Nos cuenta que su rol incluye seleccionar bandas, coordinar sonido, cuadrar horarios y verificar pagos, pero que gran parte del proceso es desordenado. A veces los músicos no mandan información completa, llegan tarde o no cumplen lo prometido. Le frustra no tener un sistema centralizado que le permita ver el calendario, firmar contratos digitalmente, recibir notificaciones automáticas o revisar propuestas ya filtradas según estilo musical. Le interesa profesionalizar la gestión de eventos, automatizar los pagos y dejar de depender de chats dispersos. Dice que si existiera una plataforma que agrupe todo (contratación, pagos, agenda y promoción) le facilitaría muchísimo el trabajo y le permitiría manejar más eventos sin tanto estrés. |
 ----
 Entrevistado #2
@@ -202,13 +201,13 @@ Entrevistado #3
 
 | Campo                        | Información                                                                                                                           |
 |-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| **Nombre del entrevistado** | Carmen Navarro                                                                                                                          |
+| **Nombre del entrevistado** | Luis Guerra                                                                                                                          |
 | **Edad**                    | 29  años                                                                                                                               |
 | **Distrito**                | Barranco                                                                                                                             |
 | **Screenshot de la entrevista**|                                                                                  |
 | **Link de la entrevista**   |                                                                                                                         |
 | **Tiempo de inicio y duración** |                                                                                    |
-| **Resumen**                 | Carmen es coordinadora de eventos en “La Sazón del Ruido”, un café cultural con espacio para 80 personas. Tiene 29 años y usa principalmente su celular y laptop para programar la cartelera musical. Nos contó que trabaja con artistas locales y viajeros, y que recibe muchas propuestas por DM de Instagram, lo que le complica hacer seguimiento formal. Le frustra tener que redactar contratos desde cero cada vez y no tener una forma rápida de filtrar por estilo musical o fecha disponible. Mencionó que suele perder tiempo ajustando horarios o buscando reemplazos de último minuto. Para ella, una plataforma donde pueda recibir postulaciones ordenadas, ver el historial de cada banda, programar eventos en una agenda visual y automatizar los pagos sería ideal. También le gustaría que los artistas pudieran subir directamente su rider técnico, así no tiene que estar pidiendo eso por correo o mensajes sueltos. |
+| **Resumen**                 | Luis es coordinador de eventos en “La Sazón del Ruido”, un café cultural con espacio para 80 personas. Tiene 29 años y usa principalmente su celular y laptop para programar la cartelera musical. Nos contó que trabaja con artistas locales y viajeros, y que recibe muchas propuestas por DM de Instagram, lo que le complica hacer seguimiento formal. Le frustra tener que redactar contratos desde cero cada vez y no tener una forma rápida de filtrar por estilo musical o fecha disponible. Mencionó que suele perder tiempo ajustando horarios o buscando reemplazos de último minuto. Para el, una plataforma donde pueda recibir postulaciones ordenadas, ver el historial de cada banda, programar eventos en una agenda visual y automatizar los pagos sería ideal. También le gustaría que los artistas pudieran subir directamente su rider técnico, así no tiene que estar pidiendo eso por correo o mensajes sueltos. |
 
  
 #### Segmento Artistas
@@ -220,7 +219,7 @@ Entrevistado #1
 | **Nombre del entrevistado**  | Diego Salazar                                                                                                                         |
 | **Edad**                     | 22 años                                                                                                                               |
 | **Distrito**                 | Miraflores                                                                                                                            |
-| **Screenshot de la entrevista** |        <img src="../../assets/Entrevista_Diego.png" alt="Entrevista Diego" width="300"/>                          |
+| **Screenshot de la entrevista** |        ![Entrevista Diego](../../assets/Entrevista_Diego.png)                          |
 | **Link de la entrevista**    |           [Ver entrevista en YouTube](https://youtu.be/NMcpm9ncwNU)                                                                                                          |
 | **Tiempo de inicio y duración** |                  0:00 - 2:35                                                                                                |
 | **Resumen**                  | Diego es guitarrista y vocalista en una banda de rock alternativo con base en Miraflores. Tiene 6 años de experiencia en la escena independiente y suele tocar 2-3 veces por mes, especialmente en bares y pequeños festivales. Coordina sus shows usando celular, laptop e Instagram, pero siente que todo el proceso es poco formal y genera mucha incertidumbre, especialmente en pagos y cumplimiento de horarios. Considera que la gestión es muy desordenada y dependiente de la buena voluntad de cada promotor. Le gustaría que una plataforma le permita centralizar fechas, asegurar pagos con escrow y gestionar contratos digitales, para enfocarse más en la música y menos en la negociación informal. |
@@ -233,7 +232,7 @@ Entrevistado #2
 | **Nombre del entrevistado**  | Juan Gutiérrez                                                                                                              |
 | **Edad**                     | 24 años                                                                                                                               |
 | **Distrito**                 | Comas                                                                                                                                 |
-| **Screenshot de la entrevista** |        <img src="../../assets/Entrevista_Juan.png" alt="Entrevista Juan" width="300"/>                                                                                                             |
+| **Screenshot de la entrevista** |   ![Entrevista Diego](../../assets/Entrevista_Juan.png)                               |                                                                                                |
 | **Link de la entrevista**    |              [Ver entrevista en YouTube](https://www.youtube.com/watch?v=TqBvzNsjQ6o)                                                                                                                                           |
 | **Tiempo de inicio y duración** |             0:00-2:27                                                                                                     |
 | **Resumen**                  | Juan es vocalista de “Los Soneros del Amor”, una banda de cumbia que trabaja activamente en eventos sociales, discotecas y matrimonios. Vive en Comas y realiza entre 6 a 8 presentaciones mensuales. Su principal medio de coordinación es el celular, usando sobre todo WhatsApp y llamadas para concretar fechas. Menciona que los contratos casi nunca se formalizan y los pagos suelen ser inciertos hasta el día del evento, generando estrés y cancelaciones imprevistas. Le interesa especialmente una solución digital que garantice seguridad en pagos y centralice todas las gestiones, reduciendo riesgos y mejorando la confianza con los espacios. |
@@ -246,7 +245,7 @@ Entrevistado #3
 | **Nombre del entrevistado**  | Luis  Paredes                                                                                                                  |
 | **Edad**                     | 30 años                                                                                                                               |
 | **Distrito**                 | Pueblo Libre                                                                                                                          |
-| **Screenshot de la entrevista** |             <img src="../../assets/Entrevista_Luis.png" alt="Entrevista Luis" width="300"/>                                                                                                         |
+| **Screenshot de la entrevista** |        ![Entrevista Diego](../../assets/Entrevista_Luis.png)                          |                                                                                                  |
 | **Link de la entrevista**    |     [Ver entrevista en YouTube](https://www.youtube.com/watch?v=OO60W2Daxog)                                                                                                                                                                 |
 | **Tiempo de inicio y duración** |                0:00-2:47                                                                                                  |
 | **Resumen**                  | Luis es músico criollo con más de 18 años de trayectoria, vive en Pueblo Libre y trabaja como solista y en dúos en peñas, restaurantes y eventos culturales. Realiza entre 4 a 5 presentaciones mensuales. Coordina sus fechas por WhatsApp o llamadas, sin usar contratos formales, lo que muchas veces ha provocado malentendidos en pagos y condiciones. Considera que la informalidad es el principal problema de la escena y que una plataforma como TocaAquí podría facilitar mucho su trabajo si le ofrece contratos digitales, pagos garantizados y un espacio donde promover su agenda de shows. |
