@@ -327,6 +327,8 @@ Los Wireflows se utilizan principalmente en el diseño UX o por sus siglas, expe
 
 ![Diagramaflujo](/assets/Diagramaflujo.png)
 
+[Ver diseño en Figma](https://www.figma.com/design/AjVj0voSeYy8l8zlp8r2qw/WebApp-TocaAqu%C3%AD?node-id=6-5&t=XKJsUX7ZY7xft6LO-1)
+
 ### 4.4.3. Web Applications Mock-ups.
 
 En esta sección se muestran los mock-ups realizados para nuestro Web Application.
