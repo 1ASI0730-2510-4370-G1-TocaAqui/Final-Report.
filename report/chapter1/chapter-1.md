@@ -62,11 +62,60 @@ TocaAquí no solo conecta talento con oportunidades, sino que impulsa un cambio 
 
 El proceso Lean UX es una metodología ágil que revoluciona la forma en que se diseña y desarrolla productos digitales. En este punto, exploraremos los principios fundamentales de Lean UX y cómo se integran en el ciclo de desarrollo de productos. Desde la colaboración multidisciplinaria hasta la iteración rápida y la validación continua, descubriremos cómo este enfoque permite a los equipos crear productos centrados en el usuario de manera eficiente y efectiva.
 #### 1.2.2.1. Lean UX Problem Statements
-En un mercado cada vez más competitivo en la industria de eventos musicales, los músicos emergentes enfrentan dificultades para conectarse con promotores de eventos, mientras que los promotores a menudo no tienen acceso a un catálogo de talento confiable y diverso. Esta desconexión genera frustración y limita las oportunidades tanto para los músicos como para los promotores.
 
-TocaAquí es una plataforma web diseñada para abordar este desafío, facilitando la conexión entre músicos emergentes y promotores de eventos. A través de la plataforma, los músicos pueden postularse a eventos, gestionar sus contratos de forma digital, y recibir pagos seguros. Al mismo tiempo, los promotores pueden encontrar músicos adecuados para sus eventos y gestionar todo el proceso de contratación y pago de manera eficiente y transparente.
+### 1.2.2.1 Lean UX Problem Statements  
+#### **TocaAquí: Plataforma para la Contratación de Músicos Emergentes**
 
-La solución proporcionará un espacio seguro y automatizado para la contratación de músicos, mejorando la visibilidad de los artistas y optimizando la experiencia para los promotores de eventos.
+---
+
+#### **Descripción del Problema**
+
+En el competitivo mundo de la industria de eventos musicales, los **músicos emergentes** enfrentan grandes dificultades para acceder a oportunidades reales de contratación. La mayoría carece de visibilidad, redes de contacto y canales formales para conectar con **promotores de eventos** que buscan talento nuevo.  
+Por otro lado, los promotores suelen invertir demasiado tiempo en buscar músicos adecuados y muchas veces no tienen acceso a un **catálogo confiable y actualizado** de artistas.  
+Esta **desconexión** genera frustración, pérdida de oportunidades y procesos de contratación informales e ineficientes.
+
+🔗 [Informe IFPI sobre Industria Musical](https://www.ifpi.org/resources/)  
+🔗 [Estudio sobre Booking de Artistas Emergentes – Berklee Online](https://online.berklee.edu/)
+
+---
+
+#### **Solución Propuesta: TocaAquí**
+
+**TocaAquí** es una **plataforma web** que permite a músicos emergentes y promotores de eventos conectar de manera fácil, segura y estructurada.  
+A través de la plataforma, los músicos pueden **postularse a eventos**, firmar **contratos digitales**, recibir **pagos seguros** y construir su **reputación artística**.  
+Simultáneamente, los promotores pueden encontrar talento filtrado por género, estilo o ubicación, revisar perfiles artísticos verificados y **gestionar todo el proceso de contratación y pago de forma automatizada**.
+
+🔗 [Sofar Sounds – Comunidad musical global](https://www.sofarsounds.com/)  
+🔗 [Gigmor – Plataforma de contratación de músicos](https://www.gigmor.com/)  
+🔗 [Stripe – Pagos seguros](https://stripe.com)  
+🔗 [DocuSign – Contratos digitales](https://www.docusign.com/)
+
+---
+
+#### **Contexto del Sector y Evidencia**
+
+Según el estudio “Banda Sonora del Mercado Latino”, el 74% de los músicos independientes en América Latina reporta **dificultades para conseguir espacios donde tocar**, y más del 60% afirma que ha trabajado sin contrato o sin pago asegurado.  
+🔗 [Fuente: Latin Music Business Report, 2022](https://www.latinmusicreport.com)
+
+Los promotores de eventos en ciudades como Lima, Bogotá o Buenos Aires indican que les toma en promedio entre 5 y 7 días concretar la contratación de un artista emergente, en parte por la **falta de plataformas confiables**.  
+🔗 [Estudio: Gestión de Eventos Independientes, Universidad de Palermo](https://fido.palermo.edu/)
+
+---
+
+#### **Objetivos Esperados con TocaAquí**
+
+- **Reducir en un 40%** el tiempo promedio que toma encontrar y contratar músicos emergentes  
+  _(de 7 días a 3-4 días en promedio mediante contratación automatizada)_
+
+- **Aumentar en un 60%** la visibilidad de músicos independientes mediante perfiles públicos, reputación por estrellas y métricas de rendimiento
+
+- **Digitalizar el 100%** del proceso de contratación (registro, contrato, pago y evaluación)  
+  _(uso de Stripe + DocuSign + sistema de notificaciones)_
+
+- **Reducir en un 70% los casos de impago o incumplimiento**, gracias a los contratos digitales con pago seguro en escrow
+
+- **Consolidar una red activa de al menos 1.000 músicos verificados y 250 promotores en el primer año**
+
 
  #### 1.2.2.2. Lean UX Assumptions
   ### **Business Assumptions**
