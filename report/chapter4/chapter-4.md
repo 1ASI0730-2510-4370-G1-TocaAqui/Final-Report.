@@ -426,51 +426,33 @@ Rider Tecnico/Logistico
 
 ### 4.4.4. Web Applications User Flow Diagrams.
 
-Logeo del promotor a la pagina
+Parte del Artsta
 
-![Logeo_Promotor](/assets/Logeo_Promotor.jpeg)
+![Parte_Artista](/assets/Parte_Artista.jpeg)
 
-Logeo del artista a la pagina
+![Parte_Artista(2)](/assets/Parte_Artista(2).jpeg)
 
-![Logeo_Artista](/assets/Logeo_Artista.jpeg)
+![Parte_Artista(3)](/assets/Parte_Artista(3).jpeg)
 
-Evaluacion del promotor
+Parte Promotor
 
-![Evaluacion_promotor](/assets/Evaluación%20del%20promotor.jpeg)
+![Parte_Promotor](/assets/Parte_Promotor.jpeg)
 
-Evaluacion del artista
+![Parte_Promotor(2)](/assets/Parte_Promotor(2).jpeg)
 
-![Evaluacion_artista](/assets/Evaluacion%20del%20artista.jpeg)
-
-Creacion de las entradas 
- 
-![Creacion_de_entradas](/assets/Creacion%20de%20entradas.jpeg)
-
-![Creacion_de_entradas_(1)](/assets/Creacion%20de%20entradas%20(1).jpeg)
-
-Visualización del pago del artista parte del promotor
-
-![Visualizacion_del_pago_del_artista_parate_del_promotor](/assets/Visualización%20del%20pago%20del%20artista.jpeg)
-
-Realización de pagos del artista
-
-![Pago_artista](/assets/Pago_artista.jpeg)
-
-Realización del contrato
-
-![Contrato_Digital](/assets/Contrato_digital.jpeg)
-
-Revisión técnica y logistica
-
-![Revicion_del_rider](/assets/Revisión_tecnica.jpeg)
+![Parte_Promotor(3)](/assets/Parte_Promotor(3).jpeg)
 
 Parte completa del Artista
 
-![Completo_Artista](/assets/Proceso%20completo%20Artista.png)
+![Artista_Completo](/assets/Artista_Completo.jpeg)
 
 Parte completa del Promotor
 
-![Completo_Promotor](/assets/Parte%20completa%20promotor.png)
+![Parte_Promotor(4)](/assets/Parte_Promotor(4).jpeg)
+
+Figma Abajo:
+
+[Ver diseño en el Figma](https://www.figma.com/design/vOE8lxDrsjdFPbZlpCYQ6s/User-Flow-Diagram?node-id=0-1&t=0Zo3M5RPBfFGn8mL-1)
 
 ## 4.5. Web Applications Prototyping.
 
