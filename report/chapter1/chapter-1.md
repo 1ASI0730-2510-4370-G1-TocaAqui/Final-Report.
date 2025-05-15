@@ -119,58 +119,71 @@ Los promotores de eventos en ciudades como Lima, Bogotá o Buenos Aires indican 
 
  #### 1.2.2.2. Lean UX Assumptions
   ### **Business Assumptions**
-Demanda del mercado: Se asume que existe una demanda creciente en el sector de eventos musicales en vivo, tanto por parte de músicos emergentes que buscan oportunidades de presentación como de espacios y promotores que requieren talentos confiables para dinamizar sus agendas.
+- **Demanda del mercado:**  
+  Se asume una creciente demanda en el sector de eventos musicales en vivo, impulsada por músicos emergentes que buscan oportunidades y espacios que requieren talentos confiables para dinamizar sus agendas.
 
-Transformación digital del sector: Se presupone que la industria de la música en vivo y eventos se beneficiará de la digitalización de procesos, mejorando la contratación, coordinación y pago de servicios.
+- **Transformación digital del sector:**  
+  Se presupone que la digitalización de procesos en la industria musical facilitará la contratación, coordinación y pagos, generando mejoras en eficiencia y profesionalismo.
 
-Valor diferencial en formalización: Se cree que la implementación de contratos digitales, sistemas de pagos  y evaluaciones post-evento aportará un valor agregado a la experiencia de usuario, diferenciando a TocaAquí en el mercado.
+- **Valor diferencial en formalización:**  
+  Se cree que herramientas como contratos digitales, pagos seguros y evaluaciones post-evento aportarán un valor agregado, diferenciando a *TocaAquí* de alternativas informales.
 
-Creciente uso de tecnologías: Se asume que tanto músicos como espacios disponen de la infraestructura tecnológica necesaria y tienen la disposición para adoptar soluciones digitales que faciliten sus procesos operativos.
+- **Creciente uso de tecnologías:**  
+  Se asume que músicos y promotores cuentan con infraestructura tecnológica suficiente y están dispuestos a adoptar plataformas digitales que optimicen sus operaciones.
 
+---
   ### **Business Outcomes Assumptions**
-Optimización de operaciones: Se espera que, al centralizar la búsqueda, contratación y coordinación de eventos musicales, los espacios y promotores logren una mayor eficiencia operativa, reduciendo tiempos y costos administrativos.
+- **Optimización de operaciones:**  
+  Al centralizar la búsqueda, contratación y coordinación de eventos, los espacios reducirán tiempos y costos administrativos, aumentando su eficiencia.
 
-Incremento en la rentabilidad: La formalización del proceso mediante herramientas digitales permitirá reducir los riesgos de cancelaciones, impagos y malentendidos, lo que se traducirá en mayores ingresos y menor pérdida económica para todas las partes involucradas.
+- **Incremento en la rentabilidad:**  
+  La digitalización del proceso disminuirá riesgos como cancelaciones o impagos, favoreciendo mayores ingresos y menor pérdida económica.
 
-Fidelización y crecimiento del ecosistema: Se asume que al ofrecer una experiencia confiable y profesional, la plataforma generará fidelidad tanto en músicos como en promotores, impulsando el crecimiento orgánico y la expansión a nuevos mercados.
+- **Fidelización y crecimiento del ecosistema:**  
+  Una experiencia profesional y confiable fomentará la lealtad de usuarios y facilitará el crecimiento orgánico en nuevas regiones o segmentos.
 
-Posicionamiento como referente: Se proyecta que TocaAquí se posicione como la solución líder en la contratación de eventos musicales, capturando una cuota relevante del mercado y diferenciándose frente a procesos informales existentes.
+- **Posicionamiento como referente:**  
+  Se proyecta que *TocaAquí* se consolide como líder en la contratación de eventos musicales en vivo, superando prácticas informales actuales.
 
+---
   ### **User Assumptions**
 
-**Músicos y bandas independientes**:
+#### **Músicos y bandas independientes**
 
-Se asume que buscan profesionalizar su carrera y aumentar su visibilidad, necesitando herramientas para gestionar presentaciones, coordinar logística y recibir pagos seguros.
+- Buscan profesionalizar su carrera y aumentar su visibilidad.  
+- Requieren herramientas para autogestionar presentaciones, logística y pagos.  
+- Valoran una plataforma con contratos digitales, evaluaciones y coordinación centralizada.
 
-Valoran el acceso a evaluaciones, contratos digitales y una plataforma centralizada que les permita gestionar sus oportunidades de manera autónoma.
+#### **Espacios y promotores (bares, discotecas, centros culturales)**
 
-**Espacios y promotores (bares, discotecas, centros culturales)**:
+- Necesitan un sistema confiable y eficiente para contratar talentos según criterios específicos (género, ubicación, disponibilidad).  
+- Buscan minimizar incertidumbre, riesgos financieros y optimizar la planificación de sus eventos.
 
-Se asume que requieren un método seguro y eficiente para encontrar talentos musicales acordes a sus necesidades, basado en criterios como ubicación, género musical y disponibilidad.
+#### **Capacidad tecnológica y disposición**
 
-Buscan reducir la incertidumbre en la contratación, optimizando la planificación de eventos y minimizando riesgos financieros y operativos.
+- Ambos segmentos tienen la capacidad y disposición para usar una plataforma digital que facilite su operatividad diaria.
 
-**Capacidad tecnológica y disposición**:
-
-Se presupone que ambos segmentos tienen la capacidad técnica para utilizar una plataforma online y están dispuestos a incorporar nuevas herramientas digitales en su rutina diaria para mejorar sus procesos de contratación y organización.
-
+---
   ### **User Outcomes Assumptions**
 
-**Para músicos y bandas:**
+#### **Para músicos y bandas**
 
-A través de la plataforma, se espera que aumente su visibilidad y la cantidad de oportunidades para presentarse, permitiéndoles gestionar de manera autónoma toda la logística de sus eventos.
+- Mayor visibilidad y acceso a nuevas oportunidades de presentación.  
+- Gestión autónoma y profesional de su carrera artística.  
+- Seguridad y confianza mediante pagos en escrow y contratos digitales.
 
-La integración de herramientas como la firma digital y el sistema de pagos en escrow contribuirá a una experiencia más segura y profesional, facilitando la toma de decisiones y la gestión de su carrera.
+#### **Para espacios y promotores**
 
-**Para espacios y promotores:**
+- Acceso ágil a talentos filtrados por criterios específicos.  
+- Planificación eficiente mediante agenda compartida y herramientas logísticas.  
+- Reducción de riesgos e incertidumbre en la contratación.
 
-Se prevé que la plataforma les permita encontrar y seleccionar talentos mediante filtros avanzados (por ubicación, tipo de música, disponibilidad), accediendo a portafolios y calificaciones que los ayuden a tomar decisiones informadas.
+#### **Resultados compartidos**
 
-La implementación de una agenda compartida y herramientas para la coordinación logística (rider técnico, horarios, etc.) generará una planificación de eventos más organizada y exitosa, reduciendo riesgos y optimizando sus recursos.
+- Evaluaciones post-evento promueven transparencia, retroalimentación y mejora continua.  
+- Reputación fortalecida en todo el ecosistema musical.
 
-**Resultados compartidos:**
-
-La transparencia y confiabilidad proporcionadas por el sistema de evaluaciones post-evento fomentarán la mejora continua y la retroalimentación, elevando la calidad del servicio ofrecido por ambas partes y fortaleciendo la reputación del ecosistema musical.
+---
   
 #### 1.2.2.3. Declaraciones de hipótesis de Lean UX
   
