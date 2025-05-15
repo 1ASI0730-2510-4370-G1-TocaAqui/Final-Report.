@@ -405,50 +405,45 @@ Pagos artista
 
 ![Pagos_Artista_Mock_(1)](/assets/Pagos%20Artista%20Mock%20(1).png)
 
-Contrato Digital
-
-![Contrato_Digital_Mock](/assets/Contrato%20Digital%20Mock.png)
-
-![Contrato_Digital_Mock_(1)](/assets/Contrato%20Digital%20Mock%20(1).png)
-
-![Contrato_Digital_Mock_(2)](/assets/Contrato%20Digital%20Mock%20(2).png)
 
 Rider Tecnico/Logistico
 
-![Rider_Tecnico/Logistico_Mock](/assets/Logistico%20Mock.png)
+![Rider(1)](/assets/Rider(1).png)
 
-![Rider_Tecnico/Logistico_Mock_(1)](/assets/Logistico%20Mock%20(1).png)
+![Rider(2)](/assets/Rider(2).png)
 
-![Rider_Tecnico/Logistico_Mock_(2)](/assets/Logistico%20Mock%20(2).png)
+![Rider(3)](/assets/Rider(3).png)
 
-![Rider_Tecnico/Logistico_Mock_(3)](/assets/Logistico%20Mock%20(3).png)
+![Rider(4)](/assets/Rider(4).png)
 
+![Rider(5)](/assets/Rider(5).png)
+
+![Rider(6)](/assets/Rider(6).png)
+
+![Rider(7)](/assets/Rider(7).png)
+
+![Rider(8)](/assets/Rider(8).png)
 
 ### 4.4.4. Web Applications User Flow Diagrams.
 
-Parte del Artsta
 
-![Parte_Artista](/assets/Parte_Artista.jpeg)
+![Login_Registro](/assets/Login_y_Registro.png)
 
-![Parte_Artista(2)](/assets/Parte_Artista(2).jpeg)
+![Artiss_Dashboard_Agenda_Pago_Profiel](/assets/Artists_Dashboard_Agenda_Pago_Profiel.png)
 
-![Parte_Artista(3)](/assets/Parte_Artista(3).jpeg)
+![Rider](/assets/Rider.png)
 
-Parte Promotor
+![Evaluacion](/assets/Evaluacion.png)
 
-![Parte_Promotor](/assets/Parte_Promotor.jpeg)
+![Productor_Dashboard_Profiel_Promocion](/assets/Productor_Dashboard_Profiel_Promocion_de_evento.png)
 
-![Parte_Promotor(2)](/assets/Parte_Promotor(2).jpeg)
+![Pago_promotor](/assets/Pago_Promotor.png)
 
-![Parte_Promotor(3)](/assets/Parte_Promotor(3).jpeg)
 
-Parte completa del Artista
+![Promocion_de_evento_Evaluacion](/assets/Promocion_de_eventos_Evaluacion.png)
 
-![Artista_Completo](/assets/Artista_Completo.jpeg)
 
-Parte completa del Promotor
-
-![Parte_Promotor(4)](/assets/Parte_Promotor(4).jpeg)
+![Completo](/assets/Completo.png)
 
 Figma Abajo:
 
